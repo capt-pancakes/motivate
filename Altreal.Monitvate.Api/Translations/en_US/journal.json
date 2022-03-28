@@ -1,0 +1,59 @@
+{
+  "title": "Journal",
+  "help_url": "/pdfs/Detailed_Help_Documentation.pdf",
+  "cta": {
+    "share_entries": "Share Entries",
+    "new_entry": "Create New Entry",
+    "tag": "Tag Behaviors",
+    "select_all": "Select All",
+    "deselect_all": "Deselect All",
+    "edit": "Edit",
+    "delete": "Delete",
+    "sort": "Sort by",
+    "tags": "Tags",
+    "attachments": "Attachments"
+  },
+  "link": {
+    "discard": "Discard"
+  },
+  "validation": {
+    "send_to": "You must choose at least 1 person to share with.",
+    "share_entries": "You must choose at least 1 entry to share."
+  },
+  "page_title": "Journal",
+  "email": {
+    "share": {
+      "subject": ":full_name Has Shared Some Journal Entries With You",
+      "intro": ":full_name has shared journal entries from Momentum with you. The journal is attached to this email in PDF format."
+    }
+  },
+  "at": "at",
+  "success": {
+    "message": "Journal Entry Saved Successfully!"
+  },
+  "send_to": "Send To",
+  "select_entries": "Select Entries to share",
+  "share": {
+    "success": {
+      "message": "Journal Entries Shared Successfully!"
+    }
+  },
+  "description_label": "Journal Entry Text",
+  "delete": {
+    "success": {
+      "message": "Journal Entry Successfully Deleted!"
+    },
+    "journal_entry": {
+      "cta": "Yes, Delete This Journal Entry",
+      "message": "Are you sure you want to delete this Journal Entry?\n",
+      "title": "Warning"
+    }
+  },
+  "filters": {
+    "sort": {
+      "newest": "Newest",
+      "oldest": "Oldest"
+    }
+  },
+  "welcome_message": "Click Create Entry to start your first journal entry."
+}

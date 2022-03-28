@@ -1,0 +1,422 @@
+{
+  "401_unauthorized": {
+    "message": "You are not authorized to view this page.",
+    "title": "Unauthorized"
+  },
+  "404_not_found": {
+    "message": "Sorry, the page you are looking for could not be found.",
+    "title": "Page Not Found"
+  },
+  "419_unknown_status": {
+    "message": "You have logged out and this page is no longer valid.",
+    "title": "MRG Momentum: Logged Out"
+  },
+  "421_link_expired": {
+    "title": "Link has expired.",
+    "message": "Link is expired."
+  },
+  "auth": {
+    "failed": "These credentials do not match our records.",
+    "throttle": "Too many login attempts. Please try again in :seconds seconds."
+  },
+  "calendar": {
+    "summary": "Momentum calendar event.",
+    "ends_at": {
+      "summary": "End of action plan \":Name\"."
+    },
+    "reminder": {
+      "summary": "Reminder for action plan \":Name\"."
+    }
+  },
+  "cta": {
+    "add_observer": "Add Observer",
+    "add_recipient": "Add Recipient",
+    "add_recipients": "Add Observers",
+    "back": "Back",
+    "cancel": "Cancel",
+    "continue": "Continue",
+    "complete": "Complete",
+    "discard": "Discard",
+    "delete": "Delete",
+    "edit": "Edit",
+    "save": "Save",
+    "save_changes": "Save Changes",
+    "set": "Set",
+    "next": "Continue",
+    "options": "Options",
+    "remove": "Remove",
+    "search": "Search",
+    "share": "Share",
+    "select": "Select",
+    "language": "Language",
+    "create_recipient": "Add Recipient",
+    "mobile_next": "Next",
+    "create_action_plan": "Create Action Plan",
+    "upload": "Upload",
+    "library": "Library",
+    "attachments": "Attachments",
+    "add": "Add",
+    "view": "View",
+    "confirm": "Confirm",
+    "close": "Close"
+  },
+  "culture": {
+    "arabic": "Arabic",
+    "chinese_simplified": "Chinese (Simplified)",
+    "chinese_traditional": "Chinese (Traditional)",
+    "czech": "Czech",
+    "danish": "Danish",
+    "dutch": "Dutch",
+    "english_uk": "English (UK)",
+    "english_us": "English (US)",
+    "finnish": "Finnish",
+    "french": "French",
+    "german": "German",
+    "italian": "Italian",
+    "japanese": "Japanese",
+    "korean": "Korean",
+    "norwegian": "Norwegian",
+    "pig_latin": "Pig Latin",
+    "pirate_speak": "Pirate Speak",
+    "polish": "Polish",
+    "portuguese": "Portuguese",
+    "spanish": "Spanish",
+    "swedish": "Swedish"
+  },
+  "datepicker": {
+    "set_dates": "Set Start and End Date",
+    "set_deadline": "Set Deadline",
+    "set_frequency": {
+      "daily": "Daily",
+      "from_date_label": "Send Reminder starting from date",
+      "label": "Send Reminder",
+      "monthly": "Monthly",
+      "never": "Never",
+      "one_time": "One-Time",
+      "weekly": "Weekly"
+    },
+    "set_reminder": "Set Reminder"
+  },
+  "email": {
+    "button_trouble": "If you’re having trouble clicking the \":actionText\" button, copy and paste the URL below into your web browser:",
+    "footer": "©2017 Momentum by Management Research Group. All rights reserved<br>This message was sent from an unmonitored email address.  Please do not reply to this message.<br>Questions?  Contact clientservices@mrg.com",
+    "greeting": {
+      "error": "Whoops!",
+      "normal": "Hello :recipient_full_name,"
+    },
+    "onboard": {
+      "button": "Click Here To Get Started",
+      "intro": "Welcome to Momentum! ",
+      "body": "Momentum is a simple, web-based system that allows you to easily stay focused on your developmental journey! Use Momentum to create a developmental action plan with specific goals and timelines; set reminders to work on and reflect upon your action plan; send pulse surveys to colleagues to get feedback on how you are doing; and share your plan and progress with selected people in your support community, including your coach.\n",
+      "footer": "Ready to get started?",
+      "subject": "Welcome to Momentum",
+      "body_pulse": "Momentum is a simple, web-based system that allows you to easily stay focused on your developmental journey. Use Momentum to send pulse surveys to colleagues to get feedback on how you are doing and share your plan and progress with selected people in your support community, including your coach."
+    },
+    "salutation": "Sincerely, <br>The Momentum Team at MRG"
+  },
+  "enum": {
+    "agreements": {
+      "high": {
+        "label": "High"
+      },
+      "low": {
+        "label": "Low"
+      },
+      "medium": {
+        "label": "Medium"
+      }
+    },
+    "emphasis": {
+      "less": {
+        "label": "Decrease / Place Less Emphasis"
+      },
+      "more": {
+        "label": "Increase / Place More Emphasis"
+      }
+    },
+    "frequencies": {
+      "daily": {
+        "label": "Daily"
+      },
+      "monthly": {
+        "label": "Monthly"
+      },
+      "once": {
+        "label": "Once"
+      },
+      "weekly": {
+        "label": "Weekly"
+      }
+    },
+    "observer_types": {
+      "boss": {
+        "label": "Boss"
+      },
+      "direct_report": {
+        "label": "Direct Report"
+      },
+      "other": {
+        "label": "Other"
+      },
+      "peer": {
+        "label": "Peer"
+      },
+      "self": {
+        "label": "Self"
+      }
+    },
+    "report_status": {
+      "active": {
+        "label": "Active"
+      },
+      "deleted": {
+        "label": "Deleted"
+      },
+      "inactive": {
+        "label": "Inactive"
+      }
+    }
+  },
+  "error": {
+    "missing_record": "Record not found.",
+    "browser_not_supported": "This website uses features that are unavailable in your browser, please view the page in one of these browsers:",
+    "browser_not_supported_title": "Browser not supported!",
+    "mobile_not_supported": "We're working on improving your Momentum mobile experience - it's not quite ready yet. In the meantime, please use Momentum from a desktop computer to start creating your roadmap for growth."
+  },
+  "footer": {
+    "client": "Presented for",
+    "partner_and_client": {
+      "for": "for",
+      "prefix": "Presented in partnership with"
+    }
+  },
+  "language_preference": "My Language Preference",
+  "lea_resource_guide_url": "/pdfs/MODERN_US_Resource_Guide.pdf",
+  "link": {
+    "complete": "Complete",
+    "delete": "Delete",
+    "download": "Download",
+    "get_help": "Get Help",
+    "my_360_results": "My LEA® results",
+    "preview": "Preview",
+    "reopen": "Reopen",
+    "resource_guide": "LEA Resource Guide",
+    "review": "Review",
+    "share": "Share",
+    "sign_out": "Sign Out"
+  },
+  "nav": {
+    "action_plans": "Action Plans",
+    "dashboard": "Dashboard",
+    "get_help": "Get Help",
+    "journal": "Journal",
+    "profile": "Profile",
+    "pulse_surveys": "Pulse Surveys",
+    "conversations": "Conversations"
+  },
+  "pagination": {
+    "next": "Next &raquo;",
+    "previous": "&laquo; Previous"
+  },
+  "passwords": {
+    "password": "Passwords must be at least six characters and match the confirmation.",
+    "reset": "Your password has been reset!",
+    "sent": "We have e-mailed your password reset link!",
+    "token": "This password reset token is invalid. Please contact clientservices@mrg.com for assistance.",
+    "user": "We cant find a user with that e-mail address.  Please contact clientservices@mrg.com for assistance."
+  },
+  "pdf_header_label": {
+    "date": "Generated On:",
+    "name": "Generated By:"
+  },
+  "validation": {
+    "accepted": "The :attribute must be accepted.",
+    "active_url": "The :attribute is not a valid URL.",
+    "after": "The :attribute must be a date after :date.",
+    "after_or_equal": "The :attribute must be a date after or equal to :date.",
+    "agreements": "Agreements must be either: low, medium, high",
+    "alpha": "The :attribute may only contain letters.",
+    "alpha_dash": "The :attribute may only contain letters, numbers, and dashes",
+    "alpha_num": "The :attribute may only contain letters and numbers.",
+    "array": "The :attribute must be an array.",
+    "attributes": {
+      "action_plan_id": "Action Plan",
+      "action_step_id": "Action Step",
+      "additional_comments": "Additional Comments",
+      "behavior_group_id": "Behavior Group",
+      "behavior_id": "Behavior",
+      "benefits": "Benefits",
+      "boss_agreement": "Boss Rater Agreement",
+      "boss_norm": "Boss Norm",
+      "code": "Code",
+      "completed_at": "Complete Time",
+      "culture_id": "My Language Preference",
+      "cycle": "Cycle",
+      "description": "Journal Entry Text",
+      "description_key": "Language Description Key",
+      "direct_report_agreement": "Direct Report Rater Agreement",
+      "direct_report_norm": "Direct Report Norm",
+      "disabled": "Disabled",
+      "due_at": "Due Date",
+      "email": "Email",
+      "emphasis": "Emphasis",
+      "enabled": "Enabled",
+      "ends_at": "End Time",
+      "failures": "Failures",
+      "file": "File",
+      "first_name": "First Name",
+      "frequency": "Frequency",
+      "goal": "Goal",
+      "goals": "Goals",
+      "helpful": "Helpful",
+      "high_label_key": "Language High Label Key",
+      "journal_entry_id": "Journal Entry",
+      "key_constituents": "Key Constituents",
+      "last_name": "Last Name",
+      "logo": "Logo",
+      "low_label_key": "Language Low Label Key",
+      "message": "Message",
+      "name": "Name",
+      "name_key": "Language Name Key",
+      "next_focus": "Next Focus",
+      "observer_id": "Observer ID",
+      "observer_type": "Observer Type",
+      "obstacles": "Obstacles",
+      "order": "Order",
+      "organization_id": "Organization",
+      "password": "Password",
+      "peer_agreement": "Peer Rater Agreement",
+      "peer_norm": "Peer Norm",
+      "pulse_survey_id": "Pulse Survey",
+      "quest_action_step_id": "Quest Action Step ID",
+      "quest_behavior_group_id": "Quest Behavior Group ID",
+      "quest_behavior_id": "Quest Behavior ID",
+      "quest_culture_id": "Quest Culture ID",
+      "quest_observer_id": "Quest Observer ID",
+      "quest_organization_id": "Quest Organization ID",
+      "quest_pqp_id": "Quest PQP ID",
+      "quest_report_id": "Quest Report ID",
+      "quest_user_id": "Quest User ID",
+      "reminders_sent": "Reminders Sent",
+      "report_id": "Report",
+      "resources": "Resources",
+      "risks": "Risks",
+      "score": "Score",
+      "self_norm": "Self Norm",
+      "share_code": "Share Code",
+      "starts_at": "Start Time",
+      "status": "Status",
+      "successes": "Successes",
+      "token": "Token",
+      "user_id": "User"
+    },
+    "before": "The :attribute must be a date before :date.",
+    "before_or_equal": "The :attribute must be a date before or equal to :date.",
+    "between": {
+      "array": "The :attribute must have between :min and :max items.",
+      "file": "The :attribute must be between :min and :max kilobytes.",
+      "numeric": "The :attribute must be between :min and :max.",
+      "string": "The :attribute must be between :min and :max characters."
+    },
+    "boolean": "The :attribute field must be true or false.",
+    "confirmed": "The :attribute confirmation does not match.",
+    "date": "The :attribute is not a valid date.",
+    "date_format": "The :attribute does not match the format :format.",
+    "different": "The :attribute and :other must be different.",
+    "digits": "The :attribute must be :digits digits.",
+    "digits_between": "The :attribute must be between :min and :max digits.",
+    "dimensions": "The :attribute has invalid image dimensions.",
+    "distinct": "The :attribute field has a duplicate value.",
+    "email": "The :attribute must be a valid email address.",
+    "emphasis": "Emphasis must be either: more or less",
+    "errors_found": "One or more fields contain errors. Please review and fix them before continuing.",
+    "exists": "The selected :attribute is invalid.",
+    "file": "The :attribute must be a file.",
+    "filled": "The :attribute field must have a value.",
+    "frequency": "Frequency must be either: once, daily, weekly, monthly",
+    "image": "The :attribute must be an image.",
+    "in": "The selected :attribute is invalid.",
+    "in_array": "The :attribute field does not exist in :other.",
+    "integer": "The :attribute must be an integer.",
+    "ip": "The :attribute must be a valid IP address.",
+    "ipv4": "The :attribute must be a valid IPv4 address.",
+    "ipv6": "The :attribute must be a valid IPv6 address.",
+    "json": "The :attribute must be a valid JSON string.",
+    "max": {
+      "array": "The :attribute may not have more than :max items.",
+      "file": "The :attribute may not be greater than :max kilobytes.",
+      "numeric": "The :attribute may not be greater than :max.",
+      "string": "The :attribute may not be greater than :max characters."
+    },
+    "mimes": "The :attribute must be a file of type: :values.",
+    "mimetypes": "The :attribute must be a file of type: :values.",
+    "min": {
+      "array": "The :attribute must have at least :min items.",
+      "file": "The :attribute must be at least :min kilobytes.",
+      "numeric": "The :attribute must be at least :min.",
+      "string": "The :attribute must be at least :min characters."
+    },
+    "not_in": "The selected :attribute is invalid.",
+    "numeric": "The :attribute must be a number.",
+    "observer_type": "Observer Type must be either: boss, peer, direct_report",
+    "present": "The :attribute field must be present.",
+    "regex": "The :attribute format is invalid.",
+    "report_status": "Report Status must be either: active, inactive, deleted",
+    "required": "The :attribute field is required.",
+    "required_if": "The :attribute field is required when :other is :value.",
+    "required_unless": "The :attribute field is required unless :other is in :values",
+    "required_with": "The :attribute field is required when :values is present.",
+    "required_with_all": "The :attribute field is required when :values is present.",
+    "required_without": "The :attribute field is required when :values is not present",
+    "required_without_all": "The :attribute field is required when none of :values are pr",
+    "same": "The :attribute and :other must match.",
+    "size": {
+      "array": "The :attribute must contain :size items.",
+      "file": "The :attribute must be :size kilobytes.",
+      "numeric": "The :attribute must be :size.",
+      "string": "The :attribute must be :size characters."
+    },
+    "string": "The :attribute must be a string.",
+    "textarea": "The :attribute field may not be greater than 520 characters.",
+    "timezone": "The :attribute must be a valid zone.",
+    "unique": "The :attribute has already been taken.",
+    "uploaded": "The :attribute failed to upload.",
+    "url": "The :attribute format is invalid.",
+    "unique_to": "The :attribute has already been taken.",
+    "end_date_before_start": "Action Plan end date cannot be equal to or before start date."
+  },
+  "observers": {
+    "cta": {
+      "create_observer": "Create Observer",
+      "add_observer": "Add Observer",
+      "select_observer": "Send To",
+      "add_recipient": "Add Recipient"
+    },
+    "multiple_label": ":size observers selected",
+    "single_label": ":size observer selected",
+    "picker_title": "Observers",
+    "no_observers": "No observers available for selection",
+    "picker_title_recipient": "Recipients"
+  },
+  "header": {
+    "myfiles": "My Files"
+  },
+  "media_uploader": {
+    "title": "Media Uploader",
+    "organizational_hint": "Organizational media",
+    "filename": "Filename",
+    "mime": "Mime",
+    "name": "Name",
+    "caption": "Caption",
+    "description": "Description",
+    "cta": {
+      "edit": "Edit Media",
+      "save": "Save Changes",
+      "selected": "selected",
+      "view_url": "View Url"
+    }
+  },
+  "conversations": {
+    "page_title": "Conversations"
+  }
+}

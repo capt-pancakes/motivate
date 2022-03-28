@@ -1,0 +1,243 @@
+{
+  "title": "Pulse Survey",
+  "help_url": "/pdfs/Detailed_Help_Documentation.pdf",
+  "get_started": {
+    "message": "You are not alone on your road to personal growth. Pulse surveys are an easy way to get feedback from your colleagues while you focus on carrying out your developmental Action Plan. ",
+    "empty_message": "You have not yet created an action plan, which is required to create a pulse survey."
+  },
+  "cta": {
+    "create_pulse_survey": "Create a Pulse Survey",
+    "send": "Send Surveys",
+    "new_cycle": "New Survey Cycle",
+    "resend": "Resend",
+    "resend_bulk": "Resend Open Surveys",
+    "close": "Close",
+    "send_results": "Send Results",
+    "cycle": "Cycle",
+    "sent_date": "Sent Date",
+    "observers": "Observers",
+    "open": "Open",
+    "completed": "Completed",
+    "results": "Results",
+    "actions": "Actions",
+    "observer_name": "Observer Name",
+    "sort_by": "Sort By",
+    "most_recent": "Most Recent",
+    "add_observers": "Add Observers",
+    "name_survey_cycle": "Name this Survey Cycle",
+    "message_to_observers": "Message to Observers",
+    "recent_observations": "In your recent observations, how often have you seen MRG Demo demonstrate behaviors associated with providing straightforward feedback (critiquing others' performance when needed, letting others know if they met expectations, informing others when they have met his/her needs)?",
+    "additional_feedback": "Do you have additional feedback for MRG Demo about demonstrating behaviors associated with providing straightforward feedback?",
+    "add_observer": "Add Observer",
+    "create_observer": "Create Observer",
+    "due_date": "Due Date",
+    "reminders_sent": "Reminders sent",
+    "status": "Status",
+    "action_plan": "Action plan",
+    "pending": "Pending",
+    "resend_to_all": "Resend to all"
+  },
+  "section": {
+    "current": "My Current Pulse Surveys"
+  },
+  "create": {
+    "title": "Create a Pulse Survey",
+    "page_title": "Create Pulse Survey"
+  },
+  "stepper": {
+    "build": "Build",
+    "preview": "Preview",
+    "send": "Send"
+  },
+  "action_plan": {
+    "picker": {
+      "label": "Pick an Action Plan"
+    }
+  },
+  "validation": {
+    "action_plan": "Please choose an Action Plan to create a pulse survey.",
+    "due_date": "You need to set a due date for this survey, make sure it’s in the future.",
+    "send": "You need to choose at least 3 people to send your Pulse Survey to.",
+    "open_pulse_survey": "You cannot create a new Pulse Survey Cycle for this Action Plan, you already have an open Pulse Survey.",
+    "cannot_delete_survey": "You cannot delete another Pulse Survey, you need at least three responses.",
+    "completed_action_plan": "You cannot create a new Pulse Survey Cycle for this Action Plan, you have already completed this Action Plan.",
+    "questions": {
+      "required": "These questions are required"
+    },
+    "behaviors": {
+      "required": "These behaviors are required"
+    },
+    "scores": {
+      "required": "All rating scale questions are required."
+    },
+    "unavailable": "Survey no longer available."
+  },
+  "colleague_message": {
+    "label": "Message to Observers",
+    "placeholder": "As you may know, I am working on a personal leadership development plan. Part of that plan involves gathering feedback on how I am doing towards meeting my development goals. I would like to ask you to assist me by filling out the attached survey. It is a quick and simple survey that you can complete from any device, including your phone. Please know that your answers to this survey remain anonymous and confidential and I will only see aggregate results presented. Thank you for your participation. "
+  },
+  "link": {
+    "due_date": "Set Due Date",
+    "view_results": "View Results",
+    "new_tab": "New Tab"
+  },
+  "email": {
+    "feedback": {
+      "intro": ":full_name is requesting your feedback by :due_date.",
+      "colleague_label": "Here’s a message from :first_name:",
+      "subject": ":full_name would like your feedback by :due_date.",
+      "button": "Provide My Feedback",
+      "greetings": "Hello :observer_name,"
+    },
+    "results": {
+      "subject": ":full_name Has Shared Their Leadership Pulse Survey Results With You",
+      "intro": ":full_name has shared the results of a leadership development pulse survey with you.  Results are attached to this email in PDF format."
+    }
+  },
+  "preview": {
+    "recent": {
+      "rarely": "Rarely",
+      "sometimes": "Sometimes",
+      "regularly": "Regularly",
+      "often": "Often",
+      "very_often": "Very Often",
+      "na": "N/A"
+    },
+    "comments": {
+      "label": "Are there additional comments you would like to provide to this leader regarding these Innovative behaviors? (Optional)"
+    },
+    "viewport_label": ":viewport view",
+    "title": "Pulse Survey",
+    "greetings": "Hello Observer Name,",
+    "textarea_placeholder": " *** PLACEHOLDER TO DISPLAY ON PREVIEW  ***",
+    "organization_questions_title": "Additional questions"
+  },
+  "send": {
+    "picker": {
+      "label": "Send To"
+    }
+  },
+  "hover": {
+    "disabled": {
+      "resend_bulk": "All your surveys are complete. Start a new cycle for more feedback.",
+      "view_results": "You need at least 3 completed surveys to view results."
+    }
+  },
+  "modal": {
+    "view_results": {
+      "warning": "You have :open_surveys survey(s) that have not been completed yet.<br> Are you sure you want to end this survey cycle and view your results?  <br/> You will not be able to collect and view any more data for this cycle if you answer YES.",
+      "yes": "Yes, View Results",
+      "title": "Warning"
+    }
+  },
+  "card": {
+    "action_plan": {
+      "label": "Action Plan"
+    },
+    "cycle": {
+      "label": "Survey Cycle"
+    },
+    "sent": {
+      "label": "Surveys Sent"
+    },
+    "complete": {
+      "label": "Surveys Complete",
+      "status": "Completed"
+    },
+    "open": {
+      "label": "Surveys Open",
+      "status": "Open"
+    },
+    "due_date": {
+      "label": "Due Date"
+    },
+    "sent_to": {
+      "label": "Sent To"
+    },
+    "reminders": {
+      "label": "Reminders Sent"
+    },
+    "status": {
+      "label": "Survey Status"
+    }
+  },
+  "results_table": {
+    "cycle": {
+      "label": "Cycle"
+    },
+    "mean": {
+      "label": "Mean"
+    },
+    "sd": {
+      "label": "Standard Deviation"
+    },
+    "dont_know": {
+      "label": "Don't know"
+    }
+  },
+  "results_plot": {
+    "x_axis": "Cycle"
+  },
+  "observer": {
+    "thankyou": {
+      "message": "Thank you for submitting your answers to this leadership development pulse survey. Please be assured that all responses will be kept anonymous. ",
+      "page_title": "Thank You"
+    },
+    "feedback": {
+      "page_title": "Send Your Feedback"
+    },
+    "deleted": "Observer Removed Successfully!",
+    "survey": {
+      "completed": {
+        "page_title": "Sorry! This survey is already completed!",
+        "message": "Thank you for your interest in this Leadership Development Survey! This survey has already been completed."
+      }
+    }
+  },
+  "review": {
+    "page_title": "Review Pulse Survey"
+  },
+  "index": {
+    "page_title": "Pulse Surveys"
+  },
+  "result": {
+    "deleted": "Survey Removed Successfully!"
+  },
+  "resend_successful": "Surveys Resent Successfully!",
+  "share_results_successful": "Survey Results Shared Successfully!",
+  "complete": {
+    "success": {
+      "message": "Pulse Survey Sent Successfully!"
+    }
+  },
+  "cannot_complete": "At least three people need to respond to this Pulse Survey before the results can be viewed.",
+  "no_additional_comments": "There are no additional comments for this survey cycle.",
+  "cannot_create_pulse_surveys": "All of your action plans either have an open survey or are completed. You cannot create a new Pulse Survey.",
+  "cannot_add_observers": "You cannot add new Observers to this Pulse Survey, it is already complete.",
+  "contacts_added_successfully": "You have successfully added new contacts to your Pulse Survey.",
+  "select_recipients": {
+    "label": "Select Recipients",
+    "no_recipients": "You have sent this survey to all of your observers. Add a recipient using the \"Add Recipient\" button."
+  },
+  "name_label": "Name this pulse survey",
+  "observers": {
+    "title": "Observers",
+    "incomplete": "Incomplete",
+    "name": "Name"
+  },
+  "multiple_label": ":size observers selected",
+  "single_label": ":size observer selected",
+  "create_recipient": "Create Observer",
+  "sort": {
+    "newest": "Newest",
+    "oldest": "Oldest",
+    "open": "Open",
+    "completed": "Completed",
+    "label": "Sort by"
+  },
+  "results": {
+    "pending": "Results Pending...",
+    "generate": "Generate Results",
+    "share": "Share Results"
+  }
+}

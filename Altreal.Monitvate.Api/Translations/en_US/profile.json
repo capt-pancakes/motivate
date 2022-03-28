@@ -1,0 +1,58 @@
+{
+  "title": "Profile",
+  "help_url": "/pdfs/Detailed_Help_Documentation.pdf",
+  "account_name": ":account_first_name :account_last_name",
+  "account_first_name": "First Name",
+  "account_last_name": "Last Name",
+  "account_email": "Account Email",
+  "change_password": "Change Password",
+  "account_password": "Account Password",
+  "account_reset_password": "Reset Account Password",
+  "account_confirm_password": "Confirm Account Password",
+  "observer_directory": "Observer Directory",
+  "edit_profile": "Edit Profile",
+  "contact": {
+    "add_contact": {
+      "title": "Create New Observer"
+    },
+    "edit_contact": {
+      "title": "Edit Observer"
+    },
+    "delete_contact": {
+      "title": "Delete Observer",
+      "message": "Are you sure that you would like to delete this observer?"
+    },
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email_address": "Email Address",
+    "observer_type": {
+      "label": "Observer Type",
+      "boss": "Boss",
+      "direct_report": "Direct Report",
+      "peer": "Peer"
+    },
+    "deleted": "Observer deleted successfully!",
+    "saved": "Observer saved successfully!",
+    "culture": {
+      "label": "My Language Preference"
+    },
+    "name": "Name"
+  },
+  "cta": {
+    "edit_profile": "Edit Profile",
+    "save_changes": "Save Changes",
+    "add_contact": "ADD OBSERVER"
+  },
+  "success": "Profile updated successfully!",
+  "page_title": "Profile",
+  "preferences": "Preferences",
+  "timezone": "Timezone",
+  "about": {
+    "header": "About Momentum",
+    "body": "Copyright 2020 Management Research Group",
+    "build": "v1.5.0",
+    "release": "September 11, 2020",
+    "build_label": "Build",
+    "release_label": "Release"
+  }
+}

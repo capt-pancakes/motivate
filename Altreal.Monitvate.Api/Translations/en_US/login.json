@@ -1,0 +1,60 @@
+{
+  "title": "Welcome to Momentum.",
+  "sub_title": "Start creating your roadmap for growth.",
+  "email": {
+    "label": "Email",
+    "magic_link": {
+      "intro": "To log-into Momentum, please click the link below to login. This link may be used multiple times until it expires in 5 days.",
+      "button": "Sign Into Momentum",
+      "subject": "Login to Momentum"
+    },
+    "validate": "Please type a valid email"
+  },
+  "username": {
+    "label": "Username",
+    "forgot_link": "Forgot username?"
+  },
+  "password": {
+    "label": "Password",
+    "forgot_link": "Forgot password?",
+    "validate": {
+      "empty": "You must enter your password to continue"
+    }
+  },
+  "sign_in": {
+    "cta": "Sign In"
+  },
+  "mrg_link": {
+    "label": "MRG.com",
+    "url": "http://www.mrg.com/"
+  },
+  "resource_center_link": {
+    "label": "Resource Center",
+    "url": "http://resourcecenter.mrg.com/"
+  },
+  "privacy_link": {
+    "label": "Privacy",
+    "url": "https://questv2.mrg.com/Pages/Privacy.aspx"
+  },
+  "copyright_link": {
+    "label": "© 2020 Management Research Group"
+  },
+  "auth": {
+    "missing_user_by_email": "A user with that email could not be found.",
+    "invalid_password": "Your authentication information was incorrect.",
+    "login_successful": "Login successful!",
+    "magic_link_sent": "An email has been sent to address :email containing a link to complete your login into Momentum.",
+    "invalid_token": "This login link is incorrect or has expired."
+  },
+  "submit_password_cta": "Submit Password",
+  "password_submit_cancel": "Go Back",
+  "password_submit_instructions": "Enter the password for user :email to continue.",
+  "page_title": "Login to Momentum",
+  "inactive": "Your account is inactive. Please contact MRG customer support.",
+  "forgot_email": {
+    "cta": "Trouble Signing In?",
+    "title": "Having Trouble Signing In?",
+    "message": "If you are not sure how to sign-in, please contact MRG Client Services at clientservices@mrg.com."
+  },
+  "browser_outdated": "Your browser version is not supported. Please update to the latest version."
+}

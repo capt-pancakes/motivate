@@ -1,0 +1,1267 @@
+{
+  "action_steps": {
+    "authority": {
+      "less": [
+        null,
+        {
+          "description": "build the respect for your insights by sharing them with more senior members of your organization even when they may disagree with you.",
+          "name": "You were hired for your skills and knowledge"
+        },
+        {
+          "name": "en_US.action_plan.action_steps.authority.less.2.name",
+          "description": "Let your team know you are willing to fight for them on those things that are important to your team’s success and well being."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.authority.less.3.name",
+          "description": "Choose one or two things you are willing to “ask for forgiveness for” rather than “ask permission for” and pursue them without asking permission before starting."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Demonstrate organizational loyalty",
+          "description": "Speak highly of the organization, represent the organization at external functions, and highlight the best attributes of the organization to others both within and outside the organization."
+        },
+        {
+          "description": "Keep up-to-date with your manager’s thinking and expectations.  Ensure your actions and words demonstrate your alignment with your manager’s priorities.",
+          "name": "Stay well aligned with your manager"
+        },
+        {
+          "name": "Clarify expectations of more senior colleagues",
+          "description": "When possible spend time with more senior colleagues to ensure you understand their expectations and priorities and share and remind others of these expectations. "
+        },
+        {
+          "name": "Follow the rules",
+          "description": "Know the rules, publicize the rules, and follow the rules set out by the organization and people in more senior positions."
+        },
+        {
+          "name": "Keep more senior leaders well informed",
+          "description": "Proactively keep those in senior positions well informed about what is going on in your area.  Find out their preferred content, form, and frequency for updates and information."
+        }
+      ]
+    },
+    "communication": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.communication.less.1.name",
+          "description": "Develop a set of standard Q&A templates for the kinds of messages you most often deliver."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.communication.less.2.name",
+          "description": "Pause and carefully assess the need and appropriateness of your message prior to speaking or writing."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.communication.less.3.name",
+          "description": "Cluster your communication time when possible. For example, save messages until staff meetings rather than emailing them as they occur to you."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "Communicate messages so that the listeners understand, rather than just delivering the message thoroughly enough to confirm your own understanding.  Provide details, give examples, draw a picture – use mechanism like this to ensure your message is delivered to your listeners completely.",
+          "name": "Explain thoughts, ideas and expectations thoroughly"
+        },
+        {
+          "description": "Find ongoing ways to keep people updated. Schedule regular electronic and/or in-person updates.  Remain focused on the ongoing communication that follows the initial communication.",
+          "name": "Keep constituents well informed"
+        },
+        {
+          "name": "Check for understanding",
+          "description": "Ensure the listener has taken in the information as intended. Ask the listener to summarize the message, or you can summarize and review key points at the end of written and verbal communication and/or send a follow-up message after a communication to confirm understanding."
+        },
+        {
+          "description": "Use individual discussions, meetings, presentations, email, etc. to reinforce messages. Consider creating a shared electronic site to post updates and relevant information for projects, etc. ",
+          "name": "Use multiple forms of communication"
+        },
+        {
+          "name": "Hone the clarity of your message",
+          "description": "The two greatest challenges to using Communication effectively are delivering too little information in the message and delivering too much cumbersome, unclear information that muddles the message.  To reduce the latter, review your written or intended verbal communication and organize it in a way that is clear and easy for the listener to digest."
+        }
+      ]
+    },
+    "consensual": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.consensual.less.1.name",
+          "description": "Know when it is your call to make a decision, Asking for input is fine as long as it is focused and limited to making a more informed decision rather than abdicating responsibility for decision making."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.consensual.less.2.name",
+          "description": "Make sure you consider the time consequence of your pursuit for additional input. If input is needed make sure you put a time limit on contributions to keep yourself committed to making timely decisions."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.consensual.less.3.name",
+          "description": "Develop your skills at explaining your rationale to people who disagree with your decisions. The more comfortable you are standing up for you decisions that less likely you are to incorporate others’ ideas just to keep the peace."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "Do not assume that people will readily provide their input without specifically being sought out.  Look at the issues you have to resolve, the decisions that need to be made and the things that need to be created and decide where input would add the most value and proactively contact people to ask for their input. Be specific about the type of input you are requesting.",
+          "name": "Proactively seek input from others"
+        },
+        {
+          "name": "Incorporate others’ ideas into the final solution",
+          "description": "The use of Consensual includes incorporating input from others into the final result.  In addition to allowing input from others to influence your thinking, choices, and actions, let people know how their input influenced the final outcome."
+        },
+        {
+          "name": "Develop active listening skills",
+          "description": "Ensure you thoroughly understand the input people provide by further developing your active listening skills – give the speaker your full attention, avoid internal and external distractions, demonstrate that you are listening, defer judgment, and respond to the speaker with appropriate responses and feedback."
+        },
+        {
+          "description": "Allow others to provide worthwhile contributions by inviting input early in the process.  If you wait until your thoughts and ideas are more fully formed, there is often less opportunity for others to influence the thinking, the process, or the outcome.",
+          "name": "Ask for input early in the thinking process"
+        },
+        {
+          "name": "Guard against immediate rejection of input",
+          "description": "Take time to think through input thoroughly before assessing the value.  Be mindful of and manage your biases regarding certain people and/or types of input."
+        }
+      ]
+    },
+    "conservative": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.conservative.less.1.name",
+          "description": "Work with a thinking partner</b> who you respect to talk out possibilities for change and trying something new.  Working with someone who already places less emphasis on Conservative will allow you to safely explore new ideas and opportunities before you take action."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.conservative.less.2.name",
+          "description": "Uncover the underlying themes of your strong emphasis on Conservative. Does it feel like too much work to try something different? Do you tend to overemphasize potential risks and underappreciate potential opportunities?  Uncovering your underlying motivation for emphasizing Conservative will give you insights into ways of working that rely less on Conservative."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.conservative.less.3.name",
+          "description": "Experiment with a step-by-step approach to change and experiment with new ideas.  Start small and take change or trying something new a step at a time."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Expand understanding of historical practices",
+          "description": "Learn organizational and departmental history, understand what has been done before (both more and less successfully), and build a solid understanding of the values and beliefs that are important to the organization’s history. When possible, align your actions and decisions accordingly."
+        },
+        {
+          "description": "Ask questions to determine risks before taking action such as: Where might we run into difficulties? Where might we be under-resourced? Who might we displease or inconvenience? What will cause us to fall short of our goals? Once the risks are defined, take actions to minimize.",
+          "name": "Conduct more thorough assessments of risk "
+        },
+        {
+          "description": "Asking questions such as: Can we do this at a slower pace? Is there an option that has less risk? Is there an alternative that does not involve as much change? will help define more cautious and moderate alternatives.",
+          "name": "Define the safer, more prudent alternatives"
+        },
+        {
+          "description": "Run simulations, focus groups, and pilot projects to test ideas before they are fully implemented.  This helps to ensure that potential risks and problems are identified while the scope of the execution is still limited.",
+          "name": "Test new ideas carefully before fully implementing"
+        }
+      ]
+    },
+    "control": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.control.less.1.name",
+          "description": "Ask others to create their own tracking system and give you a brief update on progress at reasonable intervals."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.control.less.2.name",
+          "description": "Take the time to plan assignments upfront so there is less necessity to check in and adjust once the work has started."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.control.less.3.name",
+          "description": "Pause before you follow-through on your monitoring impulses and ask yourself if following through on this impulse is more in service of successful completion or more in service of your need to check-in for your own comfort."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Ensure things get done on time",
+          "description": "Keep timelines as originally defined as often as possible. Regularly assess workloads and priorities to increase the probably that tasks and assignments will be completed according the original timeframe."
+        },
+        {
+          "name": "Remind people about their commitments",
+          "description": "Use automatic electronic reminders, and regularly schedule individual and group meetings to remind others of both deliverables and timelines."
+        },
+        {
+          "name": "Be persistent",
+          "description": "Develop strategies for staying focused on accomplishment and completion when energy or attention wanes.  "
+        },
+        {
+          "name": "Consistently deliver what was committed to",
+          "description": "Keep track of commitments (both outcomes and time expectations) and allocate time and energy to enable follow-through on deliverables.  When commitments cannot be fulfilled, communicate the message to those expecting fulfillment as soon as possible."
+        },
+        {
+          "description": "One of the greatest obstacles to effectively utilizing Control is having too many activities to track, manage and complete in a given time period.",
+          "name": "Resist the temptation to start more things than can be finished in the allotted time with the available resources"
+        }
+      ]
+    },
+    "cooperation": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.cooperation.less.1.name",
+          "description": "Set aside time that you will dedicate to focusing on your own priorities rather than spending too much time supporting others with their priorities."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.cooperation.less.2.name",
+          "description": "Determine what aspects of your agenda or points of view are non-negotiable and worth standing up for."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.cooperation.less.3.name",
+          "description": "Develop your own approach to working through conflicts as an alternative to avoiding them or too frequently acquiescing when confronted with a conflict."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "Determine where your interests and the interests of the larger body are different and increase the number of times you choose to support the larger body’s interests over your own.",
+          "name": "Put the team’s interests first "
+        },
+        {
+          "description": "As soon as you become aware of differences in opinions with others, begin to look for ways that you can modify your position to facilitate compromise.",
+          "name": "Be willing to compromise, seek common ground"
+        },
+        {
+          "description": "Look for instances where people are struggling to complete activities and offer your efforts to assist in moving to successful completion.",
+          "name": "Seek opportunities to be helpful"
+        },
+        {
+          "description": "Communicate and reinforce the expectation that members of a team will help each other, look for opportunities to accommodate each other, and seek to compromise when they encounter differences.",
+          "name": "Promote cooperation within the team"
+        },
+        {
+          "name": "Be willing to defer personal objectives to help colleagues",
+          "description": "Increase the number of times you put others’ objectives ahead of your own. Look for ways to delay your objectives in favor of offering needed resources and priority to your colleagues’ objectives."
+        }
+      ]
+    },
+    "delegation": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.delegation.less.1.name",
+          "description": "Do an analysis of the tasks you delegate to assess those that you should have kept all or part of to complete yourself."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.delegation.less.2.name",
+          "description": "Take some time to think through the skills and time needed when delegating new tasks to ensure those you are delegating to have the needed skills and/or time."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.delegation.less.3.name",
+          "description": "Make sure you are providing the appropriate guidelines when delegating tasks and communicating the answer to the question “What will successful completion of this assignment look like when it’s done?”."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Allow people the freedom to make mistakes",
+          "description": "Take time to assess the level of tolerance for error, and create opportunities for people to occasionally try and fail without high risk or reaction.  "
+        },
+        {
+          "description": "Clearly defining the expectations for the outcome as well as the elements that are non-negotiable and then letting the people assigned design and implement the process from there facilitates the effective combination of clarity and freedom.",
+          "name": "Set the goal and important parameters for success, and let the person being delegated to determine how to accomplish the goal"
+        },
+        {
+          "description": "It is not unusual for leaders to become so caught up in the activities of the day-to-day that they start doing things that would be wiser to allow others to handle.  Make time on a regular basis to review your to-do lists and calendar and determine what can be delegated to others.",
+          "name": "Periodically review your workload to determine tasks and assignments that can be delegated"
+        },
+        {
+          "description": "Observe your reactions to others’ offers to help. Often leaders reject offers to help because they feel they can do it better, they would be imposing on the person offering help, or it would just take too much time to organize things in order to accept the help.  Pay more attention to these situations and shift your response to take advantage of some of these offers.",
+          "name": "When people offer to help – accept!"
+        },
+        {
+          "description": "The clearer a leader is on the developmental path of his/her colleagues, the easier it is to recognize opportunities to delegate that will help colleagues grow and develop.  Make time to understand and/or identify the developmental needs of colleagues and to identify the types of delegated assignments that will support the developmental goals.",
+          "name": "Use delegation as a tool to provide assignments to others that help them develop"
+        }
+      ]
+    },
+    "dominant": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.dominant.less.1.name",
+          "description": "Practice learning to speak last in a group, allow others to share their thoughts and ideas before you share yours."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.dominant.less.2.name",
+          "description": "Pause before responding to the impulse to compete.  Prioritize the subjects and circumstances  that are worth fighting for and those that are not."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.dominant.less.3.name",
+          "description": "Explore practices that help keep you centered especially in situations where you are likely to become too forceful."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "Be prepared to respond to challenges to your ideas, proposals, and actions with strong, forceful reinforcements of your position and/or rationale for your actions.",
+          "name": "When challenged, challenge in return"
+        },
+        {
+          "description": "Identify what it would look like to be victorious, to win, or to achieve the best outcome.  Be aware of situations where one party will get or achieve more than the other and create a strategy to increase the chances that you are the party that is more successful.",
+          "name": "In competitive situations, seek to be successful"
+        },
+        {
+          "description": "Speak in a forceful tone, look people directly in the eyes and hold your gaze, choose language that is direct and unequivocal, and stand or sit upright, slightly leaning forward. All these methods of expression will signify your strong intentions.",
+          "name": "Use strong language, gestures, tone, and facial expressions to express assertiveness"
+        },
+        {
+          "name": "Examine reasons for avoiding more assertive approaches",
+          "description": "Not feeling strongly about being successful in competitive situations, concerns for coming across too aggressively, and inability to craft your message quickly when exchanges become more intense are among the reasons for lower utilization of Dominant.  Identifying your specific areas of concern or resistance will allow you to create a more specific strategy for being constructively forceful when needed."
+        },
+        {
+          "name": "Be persistent in prevailing in a debate or in promoting a point of view",
+          "description": "Part of taking a more forceful approach includes being persistent.  The more important the topic, often the longer the process to be successful in overcoming resistance."
+        }
+      ]
+    },
+    "empathy": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.empathy.less.1.name",
+          "description": "Take time by yourself to think through how you ideally would like to balance the need for you and your team to achieve and your desire to be empathetic.  Recognize that you do not have to take sole responsibility for others’ well-being."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.empathy.less.2.name",
+          "description": "Take time to listen to all points of view when there are interpersonal disputes and then take some time to think independently before you offer your decision or counsel."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.empathy.less.3.name",
+          "description": "Find a somewhat less empathetic thinking partner who you can discuss issues with to help you form a more balanced way of handling the situations you would be more likely to overemphasize empathy."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Be supportive of others’ needs",
+          "description": "Make time to discover the needs of others and take the time to determine the best way for you to help meet those needs."
+        },
+        {
+          "description": "Make time to reflect on issues and situations from the other’s perspective.  While it is important to avoid assuming that you completely understand a situation from another’s perspective, it is helpful to begin with your own considered reflection on their perspective.",
+          "name": "See issues and situations from others’ perspective"
+        },
+        {
+          "description": " Questions such as: How did this situation impact you? What was your reaction to this event? What are your concerns? What are your hopes? - will help you to get a better understanding of others’ experiences and needs.",
+          "name": "Ask questions to uncover others’ emotional experiences and needs"
+        },
+        {
+          "name": "Express you concern for others’ well-being",
+          "description": "One of the key aspects of Empathy is showing that you are concerned for the well-being of others.  Ask people how they are doing and let them know that you will do your best to support them."
+        },
+        {
+          "description": "Before making a decision, take time to carefully assess the impact it will have on others.  Thoroughly understanding the impact a decision will have on others not only will increase the chances of a wiser decision but will also help you prepare for a more empathetic way of communicating the decision.",
+          "name": "Consider the impact on individuals prior to making a final decision"
+        }
+      ]
+    },
+    "excitement": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.excitement.less.1.name",
+          "description": "Count and/or take a few breaths before you engage in situations where you are more likely to speak or act impulsively."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.excitement.less.2.name",
+          "description": "Become a keen observer of others and match your level of demonstrated enthusiasm and expression to the different people and groups you work with."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.excitement.less.3.name",
+          "description": "Ensure that you are very knowledgeable about the things you express the most enthusiasm about making sure your substantive knowledge matches your expressed excitement."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Express enthusiasm",
+          "description": "Recall the times when you have demonstrated the most overt enthusiasm – at a sporting event, at a child’s performance, at a party for a good friend – this is the type of expression (modified appropriately) to demonstrate enthusiasm at work.  Both choice of words and non-verbal measures (gestures, facial expressions, tone of voice) can be used to express enthusiasm."
+        },
+        {
+          "name": "Take steps to help recharge others when energy wanes",
+          "description": "Watch for the signs that others are getting tired, bored, distracted, or overwhelmed – all common signs that energy for the work they are engaged with is waning.  When this happens, help them to recharge by restating the value and importance of the work, helping to discover or rediscover the excitement in the work (or in just completing the work), or vigorously eliminating the barriers to their progress."
+        },
+        {
+          "description": "A part of the use of Excitement is creating a positive emotional climate.  Expanding your emotional vocabulary to include words like excited, enthusiastic, interested, curious, passionate, delighted, fascinated, mesmerized, etc. helps to illustrate your engagement and enthusiasm.",
+          "name": "Expand your emotional vocabulary"
+        },
+        {
+          "name": "Know what engages and energizes others",
+          "description": "Make time to discover what builds enthusiasm in those you seek to energize. Ask people what energizes them and what drains their energy.  In addition to exploring the people side of this, look at the physical work environment.  Are there any changes that could be made to make the space more energizing?"
+        },
+        {
+          "name": "Experiment with pace",
+          "description": "Individuals demonstrating Excitement display signs of energy and enthusiasm in part through a faster pace of talking, moving, and engaging.  Adjusting your pace to a slightly faster speed can increase the level of energy in one-on-one and group exchanges."
+        }
+      ]
+    },
+    "feedback": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.feedback.less.1.name",
+          "description": "Make sure your expectations are very clear early for all assignments.  Don’t make the mistake of assuming that your expectations should be obvious.  A good rule of thumb – only allow yourself to give explicit feedback on the expectations you’ve been equally explicit about."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.feedback.less.2.name",
+          "description": "Make sure you are centered and able to choose your words and tone of voice wisely in order to create conditions for a respectful discussion."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.feedback.less.3.name",
+          "description": "Become an active feedback giver for all levels of performance and engagement.  Work to ensure your pattern of feedback mirrors the actual pattern of work being done."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "Avoid generalizations and vague statements and explanations.  Be straightforward and specific in describing the behavior and outcomes.  Let the individual(s) know exactly what you valued and appreciated if you are acknowledging something well done and exactly what fell short of expectations and what corrective action is needed when you are providing feedback for something that needs improvement.",
+          "name": "Be very direct and specific when providing feedback"
+        },
+        {
+          "description": "Due to time limitations, geographic distance, discomfort on the feedback provider’s or receiver’s part, leaders sometimes provide incomplete feedback and hope that the remainder of the message is implied.  The benefits of feedback are more fully ensured if the feedback receiver is provided comprehensive feedback on both the specific aspects of behavior that are valued and need to continue as well as what needs to be done differently.",
+          "name": "Provide complete feedback"
+        },
+        {
+          "name": "Deliver feedback in a timely fashion",
+          "description": "Resist the temptation to avoid feedback in the hope that the individual or group will eventually get it on their own.  Keeping in mind appropriate forums and the need for your own emotions to be grounded, the more timely the feedback, the easier it is for you and the feedback receiver to have a more accurate memory of the feedback topic."
+        },
+        {
+          "name": "Provide your reaction to others’ thoughts, ideas and actions using clear, direct language",
+          "description": "The use of Feedback is not limited to significant events.  Feedback is also employed day-to-day in directly and specifically speaking or writing your reactions to the thoughts, proposals, and actions of others."
+        },
+        {
+          "description": "All feedback takes time.  It takes time to write the thorough email, to stop and respond to an idea or proposal, and to sit down with individuals and review their work.  Adjust your work schedule to make space for the feedback you think is an important priority.",
+          "name": "Make time for thoughtful feedback"
+        }
+      ]
+    },
+    "innovative": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.innovative.less.1.name",
+          "description": "Take the time to do an analysis of your idea before jumping forward to implement.  Take some time to answer key evaluative questions like “How much does this improve what we already have?”; “Would the most likely outcome be worth the most likely investment?”; “What might wrong?”; “Is this more important than our other priorities?”"
+        },
+        {
+          "name": "Choose a devil’s advocate to challenge your thinking",
+          "description": "Don’t choose the most conservative person you know but look for someone who is a more moderate innovator than you are."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.innovative.less.3.name",
+          "description": "Ask yourself how you know that this is idea that has substance versus one that is just an impulse or something that will not be of value in the longer term."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Engage with innovative thinkers",
+          "description": "Seek out individuals and groups who engage in innovative thought, discussion and action.  Look for professional organizations and forums that encourage innovation.  Exposure to the same patterns reinforces those patterns, while exposure to new ideas stimulates innovation."
+        },
+        {
+          "name": "Challenge the status quo",
+          "description": "Identify patterns of thinking or action that reinforce ongoing repetition of what has come before.  Challenge these assumptions through questions such as: Is this pattern of thinking or doing still relevant? How do these habits and patterns limit our ability to move forward? What actions, patterns, policies, etc. are no longer supporting our goals? Where are we stuck in habitual thought and/or action?"
+        },
+        {
+          "name": "Encourage new ideas from others",
+          "description": "Stimulate innovation by creating an environment that encourages others to come up with new ideas.  Post new ideas in visible places where people congregate; make time for the exploration of new ideas in one-on-one and group meetings. "
+        },
+        {
+          "name": "Eliminate some of the conditions that limit innovation",
+          "description": "Uncover the limiting factors to innovation. Is it time, fear of failure, lack of partnership or support, lack of clarity around strategy or vision, too many rules, lack of supporting technology? Take time to identify and reduce or eliminate some of the limiting factors."
+        },
+        {
+          "name": "Take a “try and see” experimental approach",
+          "description": "The bigger the risks, the less likely most people are to embark on something new.  Reduce this “risk aversion” block to new ideas by implementing with a more experimental mindset and conditions.  Statements such as:  “The purpose of this initial effort is for us to learn how to do this well,” and “This is new, so let’s not expect an ideal outcome the first time around,” will help nudge people forward into innovation by minimizing the reluctance that comes with the expectation of getting something exactly right the first time around."
+        }
+      ]
+    },
+    "management_focus": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.management_focus.less.1.name",
+          "description": "Try adjusting your verbal rhythm to include asking more open-ended questions to engage others rather than making as many directive statements."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.management_focus.less.2.name",
+          "description": "Assign specific leadership responsibilities for projects, assignments and meetings and participate in those experiences as a member of the team rather than as the leader."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.management_focus.less.3.name",
+          "description": "Let people know that your expectations are for them to take initiative and self-manage; be specific about what that entails and then coach them until they are skilled to consistently operate this way."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "Calm an upset group, focus a disorganized group, energize a lethargic group, align a fractured group, etc. – a leader using Management Focus ensures the group stays on track and takes action when something disrupts the group’s progress.",
+          "name": "Take charge of a group"
+        },
+        {
+          "description": "Engage in the actions that will provide people with the confidence that you are ensuring the group discussion will be productive, including managing the agenda, asking questions, summarizing content, reminding participants of goals and measures of success, keeping the discussions focused, drawing individuals out into the discussion, and defining the action steps coming out of the meeting.",
+          "name": "Facilitate group discussions"
+        },
+        {
+          "name": "Keep people focused on goals and objectives",
+          "description": "Remind people what is important, what the ultimate goals are, and how success is being measured."
+        },
+        {
+          "description": "Having and communicating a point of view about how things could be better or improved or how problems can be solved is a key component of Management Focus.  ",
+          "name": "Provide guidance and advice when needed"
+        },
+        {
+          "name": "Ensure that problems get resolved and decisions are made in a timely fashion",
+          "description": "Stay on top of issues that need resolving and decisions that need to be made.  Let your process for handling these situations be visible enough to provide confidence to others that you are not avoiding or letting these things languish."
+        }
+      ]
+    },
+    "outgoing": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.outgoing.less.1.name",
+          "description": "Make sure you are demonstrating your substance by spending enough time sharing your knowledge and ideas with people."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.outgoing.less.2.name",
+          "description": "Give yourself some time limits on socializing, particularly in the situations where you might be inclined to socialize more than is optimal."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.outgoing.less.3.name",
+          "description": "Think ahead of the situations you will be in and determine the appropriate amount of informality ahead of time. "
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Ask people informal questions",
+          "description": "Ask questions such as: How are you? How was your weekend? How was your vacation? Did your team win last night? as a way of engaging others and getting to know them better."
+        },
+        {
+          "description": "Getting coffee, having lunch, or taking a short walk around the office are all opportunities for brief, informal connections with others.",
+          "name": "Use the daily flow of work as opportunities to connect"
+        },
+        {
+          "description": "An individual who is demonstrating Outgoing is showing pleasure in the informal connections with others.  Be aware of your non-verbal expressions and ensure they support the friendly, informal, approachable intentions of Outgoing.",
+          "name": "Make eye contact, smile, and laugh"
+        },
+        {
+          "name": "Take initiative by introducing yourself to others",
+          "description": "Taking the initiative to introduce yourself to others and engaging in a simple initial exchange will help create some of the ease that the use of Outgoing can bring.  If it does not initially feel natural to do this, watch those who do seem to do this with ease and practice in smaller, informal settings to increase your comfort."
+        },
+        {
+          "description": "As you might ask about the easy aspects of the lives of others (weekend activities, family happenings, hobbies and out of work interests), it also helps create a sense of ease and informality with others when you share some of the same about yourself.",
+          "name": "Share casual and appropriate stories and anecdotes about yourself and your life"
+        }
+      ]
+    },
+    "persuasive": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.persuasive.less.1.name",
+          "description": "Spend more time listening to others’ points of view.  Incorporate more questions into your persuasive approach."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.persuasive.less.2.name",
+          "description": "Take a bit longer to think your ideas through before you begin to convince others’ of their merits."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.persuasive.less.3.name",
+          "description": "Make sure your message is not only persuasive but is clear and that people understand the actions that are required of them once they are convinced."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Explain the benefits from the perspective of the listener",
+          "description": "It is easy to fall into the trap of assuming the benefits that convinced us of the merits of an idea or course of action will be the same benefits that convince others.  This is often not the case.  When seeking to persuade a listener, ensure that the benefits that are most compelling to the listener are the most prominent benefits communicated."
+        },
+        {
+          "description": "Do your homework; know and understand the other possibilities thoroughly.  Be able to articulate the advantages of your proposal over the other possible options.",
+          "name": "Favorably compare the proposed recommendation to other possibilities"
+        },
+        {
+          "name": "Ask questions to get listeners involved and to better understand their motivations",
+          "description": "One of the most effective ways to understand the needs, values, and priorities of your listener is to ask questions.  Questions such as: What are your needs? What is most important to you? and What are your greatest concerns? will help you learn important information about your listener so you can ensure your proposal is aligned with your listeners’ point of view."
+        },
+        {
+          "description": "Some people respond better to facts and figures, while others are moved more by inspiration.  People are more apt to be influenced when the message is delivered in an approach that is most credible to them.",
+          "name": "Use language, expressions, and examples that are engaging to the particular audience"
+        },
+        {
+          "name": "Consider challenges and disagreements an opportunity to win people over, rather than a signal to fight or acquiesce",
+          "description": "Successfully persuading people to adopt your ideas and proposals often takes more than one attempt.  Understanding influencing as a process rather than an event will enable you to see each step in the process as an opportunity to better understand how you may be able to adjust both your content and approach to best persuade others of the merits of your ideas."
+        }
+      ]
+    },
+    "production": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.production.less.1.name",
+          "description": "Look for ways to motivate people other than just pushing for more.  Uncover that things your team members value such as autonomy; the chance to be creative; the opportunity to learn; the opportunity to work with others they value – there are many important motivators that drive people to work under than own steam rather than being pushed by someone else."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.production.less.2.name",
+          "description": "Make time to do some strategic work to determine a more meaningful set of goals for you and for your team.  If you find yourself unable to think outside of your high Production mindset, invite some thinking partners to do the work of establishing meaningful, rather than just higher, goals."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.production.less.3.name",
+          "description": "Assess the risks that an over emphasis on Production is exposing you and your team to.  What are the quality of life risks, the relationship risks, the quality risks?  Use this risk assessment to help establish qualitative goals for you and your team."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "A key aspect of the use of Production is the establishment of stretch goals, goals that are approaching the edge of what is achievable.  Examine the goals within your area and seek to reset some of the goals to more ambitious levels.",
+          "name": "Set ambitious goals"
+        },
+        {
+          "name": "Challenge people to work to achieve at higher levels",
+          "description": "Take advantage of formal and informal individual and group meetings as well as electronic communication methods to continually reinforce the expectation for higher levels of achievement."
+        },
+        {
+          "name": "Measure progress toward achieving high standards and ambitious goals on an ongoing basis",
+          "description": "Online tracking, status reports and meetings, and one-on-one meetings are all opportunities to keep goals and the progress towards them visible."
+        },
+        {
+          "description": "Are there too many rules or too much bureaucracy?  Are people clear enough about the goals and priorities? Are resources and deliverables needed from other areas forthcoming? Does follow-up become lax once a project is underway? Is there ambivalence about the business consequences of falling short on achievement of goals?",
+          "name": "Look for and eliminate barriers to high production"
+        },
+        {
+          "description": "Help expand individuals’ capabilities by giving them assignments where they need to grow, develop, and stretch beyond their comfort zone in order to be successful.",
+          "name": "Use stretch assignments to develop others"
+        }
+      ]
+    },
+    "restraint": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.restraint.less.1.name",
+          "description": "If it feels unnatural to be more non-verbally expressive, then increase your emotional vocabulary and let people know what is going on with you by using more expressive language."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.restraint.less.2.name",
+          "description": "Ask specific questions of your listeners to ensure they understand where your thoughts and feelings are in particular situations."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.restraint.less.3.name",
+          "description": "Take time to build relationships with people so they will feel more comfortable asking for more information when they are unclear where you stand."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "Choose words carefully, use fewer words, and eliminate words or phrases that suggest elevated emotion.",
+          "name": "Stay calm and reserved in communications"
+        },
+        {
+          "name": "Develop a calming practice",
+          "description": "Take a walk, meditate, keep a journal, talk to someone outside the work environment, or practice deep breathing.  The use of Restraint comes best from being calm and reserved.  Develop a practice or set of practices that helps you come back to this state."
+        },
+        {
+          "description": "Speak in quieter tones. The use of Restraint is largely signaled by these reserved, non-verbal indicators.",
+          "name": "Use smaller, more limited gestures and facial expressions"
+        },
+        {
+          "description": "Assess where you are most likely to express emotions more dramatically or intensely.  These represent good opportunities to practice a more reserved expression of your emotions.  Practice stating your emotions directly (e.g.. “I am getting frustrated.”) rather than acting out your emotions. Seek feedback from others on your initial attempts.",
+          "name": "Diminish emotional expressions"
+        },
+        {
+          "description": "Delay responding to written or verbal communication until you are calm and are ready to communicate in a more reserved manner.",
+          "name": "Take time to respond and think things through before talking"
+        }
+      ]
+    },
+    "self": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.self.less.1.name",
+          "description": "Seek other’s thoughts, ideas and recommendations.  Expand your thinking by engaging others in conversation, exploration and debate.  Wait for others to offer their input before you give your input."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.self.less.2.name",
+          "description": "Look for ways to compromise.  Define what portions of your thoughts and ideas are really non-negotiable versus just nice-to-have."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.self.less.3.name",
+          "description": "Look for ways to collaborate.  Find partners to work on projects with, even if it is just a portion of a project."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Design goals and plans for areas of responsibility before consulting others",
+          "description": "The core of the Self dimension is independent thought and action.  To that end, the leader who demonstrates Self takes time to independently think through the objectives and actions for his/her area of responsibility prior to engaging others.  If you do require some information from others, experiment with limiting that input to only the amount you need to completely define the goals and plans for your area."
+        },
+        {
+          "name": "Make independent decisions",
+          "description": "Take time to make decisions separate from those of others.  Take the time to fully work through your decision to a point of high confidence before sharing with others.  Even if you do not have full decision making authority, think through your decision-making process as if you did."
+        },
+        {
+          "name": "Communicate thoughts and ideas early in conversations and meetings",
+          "description": "When you do have definite ideas, thoughts or opinions, communicate them early in the discussion.  Communicate using “I” statements, such as: I’d like to see us experiment with this… I have given this a fair amount of thought, and I’d like to recommend… I think this option will give us our best chance to succeed."
+        },
+        {
+          "description": "Create a mechanism for keeping track of thoughts and ideas as they occur – carry a small notebook, or use the voice or memo features in a smart phone or tablet so that when you have expanded time for generating plans, formulating opinions, or making decisions, you have more of your own material to work with.",
+          "name": "Write down thoughts and ideas as they occur"
+        },
+        {
+          "description": "Independent thought and action will almost always encounter some resistance along the way. Make time to distinguish the components of your ideas, positions, and actions that are most important for you to uphold in discussions and negotiations.",
+          "name": "Resist agreeing with others when commitment to personal ideas and position is strong"
+        }
+      ]
+    },
+    "strategic": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.strategic.less.1.name",
+          "description": "Connect with a more action oriented thinking partner who will challenge you to move into action more quickly."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.strategic.less.2.name",
+          "description": "Limit your thinking/ivory tower time.  Test your theories in action before you become too enamored with untested or less relevant ideas."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.strategic.less.3.name",
+          "description": "Don’t drill too far into the details of your analysis.  Make the time to reflect on the amount of data and analysis that helps you make thoughtful decisions and data analysis that just gives you more information but doesn’t change your decision."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "A leader employing Strategic is anchored in outcome and purpose.  Questions such as: What are we trying to accomplish?, What does success look like?, How is this aligned with our strategy?, are examples of questions that help keep the leader and others focused on following courses of action that support key outcomes.",
+          "name": "Identify the strategic objective"
+        },
+        {
+          "name": "Assess the long-range picture",
+          "description": "Keep looking forward with the intention of doing the best to anticipate the long-term consequences and opportunities to potential ideas, solutions and course of action.  Regularly ask: Where will this lead us in one year, two years, or three years from now? "
+        },
+        {
+          "name": "Anticipate the future",
+          "description": "Make time to look forward and anticipate the future.  Stay on top of trends and shifts in the industry, market, and customer patterns.  Engage others in this forward-thinking focus by asking questions such as: What challenges and/or opportunities might come up in the near and longer term? What will our customers want? Where is the industry headed? How might changes in the economy impact us?"
+        },
+        {
+          "description": "Analysis does not have to be exhaustive to provide valuable insights.  Take the time to determine the type and depth of analysis needed to help ensure decisions are well thought-out before moving forward.",
+          "name": "Analyze the strengths and weaknesses of solutions and potential actions"
+        },
+        {
+          "name": "Continually remind self and others of the links between tactical activities and strategic objectives",
+          "description": "In fast-paced environments, it is easy to get lost in the process of tactical activities and lose sight of the strategic intent.  Make time in one-on-one meetings, group meetings, and written communication to remind people about the ultimate goals and objectives for the organization, unit, or project."
+        }
+      ]
+    },
+    "structuring": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.structuring.less.1.name",
+          "description": "Build more flexibility into procedures by working through “if…then…” scenarios and being clear about the material versus ancillary aspects of procedures."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.structuring.less.2.name",
+          "description": "Establish the fundamental values and parameters that need to be adhered to and leave the details to those implementing."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.structuring.less.3.name",
+          "description": "Delegate more and let those delegated to develop the necessary procedures, focus your delegation communication on specific desired outcomes rather than the process you want someone to follow to achieve the desired outcome."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "description": "Develop a step-by-step process for important and/or repeated tasks to ensure they are done thoroughly and consistently.",
+          "name": "Systemize tasks to ensure consistency"
+        },
+        {
+          "name": "Document processes, policies, procedures, and guidelines for tasks",
+          "description": "Write these down and store in accessible places.  Have more structured colleagues review and critique these written documented processes on a regular basis to guide and structure activities."
+        },
+        {
+          "name": "Emphasize the importance of doing things right the first time",
+          "description": "While fixing mistakes, redoing tasks, and creating several versions of something are all considered acceptable, it reinforces the tendency to be less attentive to detail and accuracy the first time through.  Increasing expectations of doing things right the first time reinforces the need to be more organized and methodical."
+        },
+        {
+          "name": "Learn from colleagues who have become more organized and structured",
+          "description": "While there are valuable tips and ideas to be learned from colleagues who are more naturally structured, some of the best ideas for increasing your use of Structuring can come from colleagues who were once less organized and have developed their own mechanisms for increasing their effectiveness in this area. "
+        },
+        {
+          "description": "Online calendars, reminder systems, task organizers, etc. all are easily available tools to help organize in an increasingly electronic world.  Experiment with organizational tools available on your computer, smart phone, and/or tablet.",
+          "name": "Use technology tools to support organization"
+        }
+      ]
+    },
+    "tactical": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.tactical.less.1.name",
+          "description": "Schedule time in your calendar for strategic planning and make sure your tactical actions are aligned with your strategic objectives."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.tactical.less.2.name",
+          "description": "Do an analysis of the hands-on work you are doing and make an assessment of what can be delegated to others."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.tactical.less.3.name",
+          "description": "Develop stronger follow-through actions to be sure you complete the things you start."
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Keep focused on short term goals",
+          "description": "One of the functions of the Tactical dimension is to focus on the goals and objectives in the near term.  Questions such as: What needs to be accomplished now?  What needs to be accomplished this week? What is the most immediate thing to focus on? all help keep the focus on the shorter-term objectives."
+        },
+        {
+          "name": "Choose simple, practical solutions",
+          "description": "Choose the course of action that is the least complicated, opt for the simpler option, or do the most basic next step.  Each of these options helps keep the focus on the aspect of Tactical that emphasizes simplicity and practicality."
+        },
+        {
+          "name": "Be very attentive to potential opportunities",
+          "description": "Increase awareness of the opportunities that come up in the course of the day-to-day.  Be responsive to these opportunities Make a practice of taking action as soon as a potential opportunity arises. Make the call, send the email, write the outline, call a meeting – take the action that will capture the potential opportunity."
+        },
+        {
+          "name": "Change direction quickly when needed",
+          "description": "Develop skills to recognize when things are not working or are stalled, and reprioritize or choose another action to facilitate the ability to change direction quickly.  "
+        },
+        {
+          "name": "Eliminate things that slow immediate action",
+          "description": "Over complicated thinking, being too removed from the day-to-day activities of the unit, being too invested in the plan, and feeling the need to get too many people involved are all common reasons for responses and action to be slower.  Where possible, identify and examine the conditions that limit quick response time."
+        }
+      ]
+    },
+    "technical": {
+      "less": [
+        null,
+        {
+          "name": "en_US.action_plan.action_steps.technical.less.1.name",
+          "description": "Take a break from your area of expertise and look at the situation from the position of people from other disciplines.  Ask good questions of others to get their perspective on what success looks like for a given endeavor"
+        },
+        {
+          "name": "en_US.action_plan.action_steps.technical.less.2.name",
+          "description": "Pay attention to how deeply you get into your own area of expertise.  Notice when you have gone beyond the knowledge needed for a successful outcome and have moved to a level of depth that would only be valued by others’ with your same area of expertise."
+        },
+        {
+          "name": "en_US.action_plan.action_steps.technical.less.3.name",
+          "description": "Learn to communicate your knowledge more in simple, straightforward terms.  As Albert Einstein said “If you can’t explain it simply, you don’t understand it well enough.”"
+        }
+      ],
+      "more": [
+        null,
+        {
+          "name": "Facilitate education sessions to share expertise with others",
+          "description": "Share your expertise with both colleagues and customers.  Build your reputation for expertise by offering education to others through face-to-face, writing, and online offerings, etc."
+        },
+        {
+          "description": " Take advantage of questions and requests from others to offer insights and knowledge in your area of expertise. Expand the time you are spending being an expert resource to others.",
+          "name": "Respond to questions with specific, in-depth answers that demonstrate knowledge and expertise"
+        },
+        {
+          "name": "Examine problems, opportunities and courses of action through the lens of expertise",
+          "description": "There are many ways to examine issues and opportunities, including the assessment of short term needs, strategic intent, timelines, resource allocations, etc.  In addition to these and other factors, specifically make time to answer the question “How does my area of expertise add to or influence this situation?”"
+        },
+        {
+          "name": "Have those that share your area of expertise critique presentations, solutions, and ideas",
+          "description": "Seek out people whose expertise you value to provide expert feedback and input on thoughts, solutions, decisions, and potential courses of action."
+        },
+        {
+          "name": "Be an advocate for the importance of your area of expertise in the organization",
+          "description": "Promote the value of your field or body of knowledge on the growth and success of the organization and/or organizational unit and help make the connection between the successful achievement of objectives and your area of expertise."
+        }
+      ]
+    },
+    "single_label": ":size step selected",
+    "multiple_label": ":size steps selected",
+    "create": {
+      "description": "Action Step Description",
+      "name": "Action Step Name",
+      "discard": "Cancel ",
+      "title": "Create my own Action Step",
+      "save": "Save Action Step"
+    },
+    "add_actionsteps": "Add Action Steps",
+    "picker": {
+      "create": "Create Custom Action Step",
+      "label": "Pick Action Steps"
+    },
+    "emphasis": {
+      "label": "How much emphasis would you like to put on :behavior_name?",
+      "change_warning": "If you choose a different emphasis, then your current Action Steps will be cleared.",
+      "less": "Decrease / Place Less Emphasis",
+      "more": "Increase / Place More Emphasis",
+      "change_title": "Warning",
+      "change_cta": "Yes, Continue"
+    },
+    "behavior": {
+      "change_warning": "If you choose a different behavior, then your current Action Steps will be cleared."
+    },
+    "reminder_label": "Reminder",
+    "confirm_delete_label": "Confirm Delete?",
+    "confirm_delete_message": "Please confirm that you want to remove this action step."
+  },
+  "email": {
+    "share": {
+      "intro": ":full_name has shared a leadership development action plan with you, which is attached to this email in PDF format.",
+      "subject": ":full_name Has Shared Their Action Plan With You\n"
+    },
+    "reminders": {
+      "action_step": {
+        "subject": "Are You Keeping up with your Action Plan?",
+        "intro": "Have you been keeping up with your action plan in Momentum and the developmental commitment you made to yourself?  You requested a reminder to help you stay focused on:",
+        "button": "Review My Action Plan"
+      },
+      "pulse_surveys": {
+        "button": "Click Here To Send Pulse Surveys",
+        "intro": "Have you been keeping up with your action plan in Momentum and the developmental commitment you made to yourself?  To get feedback on how others are seeing your progress, use the Pulse Survey feature in Momentum to send out a brief questionnaire.",
+        "subject": "Time To Send Pulse Surveys"
+      },
+      "generic": {
+        "intro": "Have you been following your action plan? Click the button below to review.",
+        "button": "Review My Action Plan",
+        "subject": "Review Your Action Plan"
+      },
+      "review": {
+        "intro": "Have you been keeping up with your action plan: :action_plan_name in Momentum and the developmental commitment you made to yourself?  You requested a reminder to help you stay focused on your overall plan.  You can use the journal area of Momentum to help you review and reflect on your progress.",
+        "subject": "Review and Reflect",
+        "button": "Review My Action Plan"
+      }
+    },
+    "calendar": {
+      "body": "Thank you for using the reminders feature of Momentum to help you stay focused on your plan  :name.  Add the attached reminder to your Outlook, iCal, or Gmail calendar.",
+      "subject": "Here is your reminder for your action plan :name"
+    }
+  },
+  "behaviors": {
+    "single_label": ":size behavior selected",
+    "multiple_label": ":size behaviors selected",
+    "picker": {
+      "label": "Pick a Behavior"
+    }
+  },
+  "help_url": "/pdfs/Detailed_Help_Documentation.pdf",
+  "card": {
+    "action_plan": {
+      "label": "Action Plan"
+    },
+    "status": {
+      "complete": "Complete",
+      "draft": "Draft",
+      "in_progress": "In Progress",
+      "incomplete": "Incomplete",
+      "label": "Status"
+    },
+    "complete_date": {
+      "label": "Complete Date"
+    },
+    "next_reminder": {
+      "label": "Next Reminder"
+    },
+    "target_date": {
+      "label": "Target Date"
+    }
+  },
+  "index": {
+    "self": "Action Plan",
+    "page_title": "Action Plans",
+    "actions": "Actions",
+    "behaviors": "Behaviors",
+    "next_reminder_date": "Next reminder",
+    "steps_completed": "Steps completed",
+    "ends_at": "Target date"
+  },
+  "complete": {
+    "success": {
+      "message": "Action Plan Completed Successfully!",
+      "label": "Where was I successful through this plan?"
+    },
+    "button": {
+      "label": "Close Plan"
+    },
+    "title": "Complete My Action Plan",
+    "page_title": "Complete Your Action Plan",
+    "helpful": {
+      "no": "No",
+      "label": "Was this system helpful to the action plan process?",
+      "yes": "Yes"
+    },
+    "opportunity": {
+      "label": "What did not work out as I had hoped?"
+    },
+    "nextup": {
+      "label": "What do I want to focus on next?"
+    }
+  },
+  "save": {
+    "success": {
+      "message": "Action Plan Created Successfully!"
+    }
+  },
+  "delete_successful_message": "Action Plan deleted successfully!",
+  "share": {
+    "success": {
+      "message": "Action Plan Shared Successfully!"
+    },
+    "action_step": {
+      "no_reminder": "None",
+      "status_label": "Status"
+    },
+    "title": "Share My Action Plan",
+    "page_title": "Share Your Action Plan",
+    "select_observer": "You need to choose at least 1 person to share your Action Plan with."
+  },
+  "update": {
+    "success": {
+      "message": "Action Plan Updated Successfully!"
+    }
+  },
+  "title": "Action Planning",
+  "action_step": {
+    "save_successful": "Action Step Created Successfully!",
+    "edit_successful": "Action Step Edited Successfully!",
+    "reminder_title": "Action Step Reminders",
+    "complete": "Mark Complete"
+  },
+  "calendar": {
+    "reminder": {
+      "action_step": {
+        "summary": "My Leadership Development Plan Detailed Reminder for :Name"
+      },
+      "pulse_surveys": {
+        "summary": "My reminder to get feedback on my action plan by sending out Pulse Surveys in Momentum for :Name"
+      },
+      "review": {
+        "summary": "My Leadership Development Plan Reminder to review :Name"
+      }
+    },
+    "action_step": {
+      "summary": "My Leadership Development Plan Reminder for :Name and :Step"
+    }
+  },
+  "cta": {
+    "action_steps": "ACTION STEPS",
+    "add_behavior": "Add Behavior",
+    "add_to_calendar": "ADD TO CALENDAR",
+    "continue_create_action_plan": "Continue Creating",
+    "continue_draft": "Continue draft",
+    "create_action_plan": "Create Action Plan",
+    "create_draft": "Create New Action Plan",
+    "due_date": "DUE DATE",
+    "finish": "FINISH",
+    "action_step_label_1": "Let your team know you are willing to fight for them on those things that are important to your team's success and well being.",
+    "action_step_label_2": "Let your team know you are willing to fight for them on those things that are important to your team's success and well being. A little more text on this one. The definition of authority is a dynamic between different classes of people. Having authority is a big.",
+    "resend_calendar": "Resend calendar updates",
+    "save_and_exit": "Save and Exit",
+    "save_and_finish_later": "Save and Finish Later",
+    "save_as_draft": "SAVE AS DRAFT",
+    "select_behavior": "Select Behavior",
+    "select_emphasis": "Select Behavior Usage Goal",
+    "start": "START",
+    "select_behaviors": "SELECT BEHAVIORS"
+  },
+  "preview": {
+    "action_steps": {
+      "label": "Action Steps"
+    },
+    "behaviors": {
+      "label": "Development Report Results"
+    },
+    "goals": {
+      "label": "Goals"
+    },
+    "reminders": {
+      "label": "Reminders"
+    }
+  },
+  "stepper": {
+    "action_steps": "Action Steps",
+    "behaviors": "Behaviors",
+    "goals": "Goals",
+    "reminders": "Reminders"
+  },
+  "section": {
+    "all": "All Plan",
+    "complete": "Completed",
+    "current": "Current",
+    "drafts": "Drafts\n",
+    "draft": "My Drafts",
+    "all_plans": "All Plans"
+  },
+  "delete": {
+    "message": "Are you sure you want to delete this Action Plan?",
+    "title": "Warning",
+    "cta": "Yes, Delete This Action Plan"
+  },
+  "drafts": {
+    "delete_dialog": {
+      "message": "Are you sure you want to delete this draft?",
+      "title": "Warning"
+    },
+    "deleted_successful_message": "Draft deleted Successfully!"
+  },
+  "continue_creating": {
+    "message": {
+      "discard_confirmation_message": "Are you sure you want to discard your work in in progress and create a new action plan?",
+      "continue": "Continue plan in progress",
+      "discard": "Start new action plan",
+      "title": "Warning",
+      "label": "You have a :plan in progress. Would you like to continue your work in progress?",
+      "label(OLD)": "You have a new in action plan in progress. Would you like to continue creating it or discard this plan and create a new one?  "
+    }
+  },
+  "goals": {
+    "benefits": {
+      "label": "Benefits",
+      "help_text": "What are the benefits of reaching this goal?"
+    },
+    "constituents": {
+      "label": "Constituents",
+      "help_text": "Which key constituents are most important for you to consider with regard to this Development Goal?"
+    },
+    "goal": {
+      "label": "Goal",
+      "help_text": "What is your Development Goal?"
+    },
+    "obstacles": {
+      "label": "Obstacles",
+      "help_text": "What do you see as the most significant obstacles in working towards this goal and what is your strategy for overcoming these obstacles?"
+    },
+    "resources": {
+      "label": "Resources",
+      "help_text": "What potential resources will you utilize to help you achieve your Development Goal?"
+    },
+    "risks": {
+      "label": "Risks",
+      "help_text": "What do you see as the potential risks in both working towards this goal and achieving this goal?"
+    }
+  },
+  "behavior_plot": {
+    "boss": "Boss(es)",
+    "direct_report": "Direct Reports",
+    "hi_mid": "Hi-Mid",
+    "high": "High",
+    "low": "Low",
+    "low_mid": "Low-Mid",
+    "medium": "Medium",
+    "mid_range": "Mid-Range",
+    "peer": "Peers",
+    "agreement": "Rater Agreement",
+    "self": "Self"
+  },
+  "reminders": {
+    "congrats_message": "Congratulations! You have created a new Action Plan.",
+    "start_end": {
+      "end": {
+        "label": "End Date"
+      },
+      "start": {
+        "label": "Start Date"
+      },
+      "label": "When do you want to start and finish this plan?"
+    },
+    "action_steps": {
+      "start_data": "Start Date"
+    },
+    "reminders_message": "Set a reminder to help you stay focused on a specific Action Step.",
+    "feedback": "Set a reminder to obtain feedback with Pulse Surveys",
+    "review": "Set a reminder to review and reflect on this plan"
+  },
+  "create": {
+    "page_title": "Create An Action Plan",
+    "title": "Create My Action Plan",
+    "dialog": {
+      "title": "Select Your Momentum Set-up",
+      "message": "Momentum lets you choose between creating a Full Action Plan, complete with setting developmental goals and objects - OR - choose to use Momentum for creating and managing Pulse Surveys to track your progress on existing developmental goals.",
+      "action_plan": {
+        "cta": "Full Action Plan"
+      },
+      "focus_plan": {
+        "cta": "Pulse Survey Only"
+      }
+    }
+  },
+  "attributes": {
+    "draft": "draft",
+    "new_plan": "new plan"
+  },
+  "draft_saved_successfully_message": "Draft Saved Successfully!",
+  "set_due_at": {
+    "label": "Due Date",
+    "placeholder": "Set Due Date"
+  },
+  "validation": {
+    "behaviors": {
+      "max": "Maximum of 3 behaviors allowed",
+      "picker": "You need to pick a behavior."
+    },
+    "reminders": {
+      "start_end": "Please choose a start and end date for your Action Plan.",
+      "deadline": "Please set a target date for this Reminder.",
+      "atleast": "Please set at least on reminder."
+    },
+    "action_steps": {
+      "deadline": "Please set a target date for completing this Action Step.",
+      "number": "You must select at least one Action Step.",
+      "emphasis": "You need to choose level of emphasis."
+    },
+    "goals": {
+      "required": "This question is required.",
+      "characters": "Your answers must be less than 520 characters."
+    },
+    "too_many_warning": "You can only create drafts while having 3 current action plans.",
+    "too_many": "You have 3 Action Plans in progress, complete one to start a new Action Plan.",
+    "send": "You need to choose at least 1 person to share your Action Plan with."
+  },
+  "name_your_plan": "Name Your Action Plan",
+  "name_preview": "Name: ",
+  "no_reminders_message": "No Reminders",
+  "get_started": {
+    "message": "Now that you have analyzed your feedback data and identified the behaviors and observer perspectives that are your most important development needs, you are ready to create an action plan."
+  },
+  "share_stepper": {
+    "preview": "Preview",
+    "send": "Send"
+  },
+  "results": {
+    "page_title": "Pulse Survey Results",
+    "additional_comments": "Additional Comments",
+    "survey_results": "Pulse Survey Results",
+    "custom_questions": "Custom Questions"
+  },
+  "link": {
+    "remind_me": "Remind Me",
+    "set_dates": "Set Dates",
+    "set_deadline": "Set My Deadline"
+  },
+  "review": {
+    "title": "Review My Action Plan",
+    "page_title": "Review Your Action Plan",
+    "unload": {
+      "message": "You have not saved this Action Plan, are you sure you want to discard your edits?"
+    }
+  },
+  "send": {
+    "picker": {
+      "label": "Send To"
+    }
+  },
+  "cannot_delete_message": "This Action Plan cannot be deleted.",
+  "cant_complete_message": "You must complete all of your action steps to complete this action plan.",
+  "rater_agreement": {
+    "low": "Low",
+    "medium": "Medium",
+    "high": "High"
+  },
+  "name": {
+    "action_plan": {
+      "title": "Name Your :type Plan",
+      "full": "Full Action",
+      "focus": "Pulse Only"
+    }
+  }
+}

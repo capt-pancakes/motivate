@@ -1,0 +1,198 @@
+{
+  "authority": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being deferential to more senior leaders and organizational mandates?",
+    "high_label": "Will consult superiors and defer to people in authority; will follow the rules; loyal to the organization",
+    "label": "Authority",
+    "low_label": "Less likely to be influenced by those in authority; less willing to accept rules or decisions without questioning",
+    "report_text": "Showing loyalty to the organization; respecting the ideas and opinions of people in authority and using them as resources for information, direction, and decisions.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being deferential to more senior leaders and organizational mandates (listening to superiors, following organizational rules, looking for guidance from senior leaders)?"
+  },
+  "communication": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with clear communication?",
+    "high_label": "Are explicit about expectations; keep everyone informed; express ideas clearly",
+    "label": "Communication",
+    "low_label": "Provide less information; work on a “need to know” basis",
+    "report_text": "Stating clearly what you want and expect from others; clearly expressing your thoughts and ideas; maintaining a precise and constant flow of information.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with clear communication (keeping others informed, being direct about expectations, clearly expressing thoughts and ideas)?"
+  },
+  "consensual": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with seeking out and utilizing input from others?",
+    "high_label": "Ask for input and advice from others; respect and value others’ ideas",
+    "label": "Consensual",
+    "low_label": "Do not actively seek input from others before making decisions",
+    "report_text": "Valuing the ideas and opinions of others and collecting their input as part of your decision-making process.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with seeking out and utilizing input from others (valuing ideas expressed by others, adopting other views, asking for input)?"
+  },
+  "conservative": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being conservative/traditional?",
+    "high_label": "Respect tradition; rely on past practices; build on knowledge gained through experience",
+    "label": "Conservative",
+    "low_label": "Less focused on what has worked in the past; do not rely on precedents; less concern for acting cautiously",
+    "report_text": "Studying problems in light of past practices to ensure predictability, reinforce the status quo and minimise risk.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being conservative/traditional (being cautious, respecting the lessons of the past, minimizing risk)?"
+  },
+  "control": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with tracking and monitoring work?",
+    "high_label": "Are persistent; stay with goals; monitor tasks very closely",
+    "label": "Control",
+    "low_label": "Less likely to engage in follow-up activities; allow others to follow through on their own",
+    "report_text": "Adopting an approach in which you take nothing for granted, set deadlines for certain actions and are persistent in monitoring the progress of activities to ensure that they are completed on schedule.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with tracking and monitoring work (completing tasks on time, delivering on promises, being persistent, following up)?"
+  },
+  "cooperation": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with cooperating and compromising with others?",
+    "high_label": "Will accommodate and help others in organization; willing to compromise; can be a good team member",
+    "label": "Cooperation",
+    "low_label": "Less willing to compromise or just go along; not inclined to put aside your own interests to help others",
+    "report_text": "Accommodating the needs and interests of others by being willing to defer performance on your own objectives in order to assist colleagues with theirs.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with cooperating and compromising with others (seeking common ground, demonstrating willingness to help, seeking harmony)?"
+  },
+  "delegation": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with delegation and asking for help?",
+    "high_label": "Will allow others to help reach objectives; give the freedom to make mistakes; help others develop",
+    "label": "Delegation",
+    "low_label": "Retain responsibility and authority; prefer to do things yourself",
+    "report_text": "Enlisting the talents of others to help meet objectives by giving them important activities and sufficient autonomy to exercise their own judgment.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with delegation and asking for help (allowing others to make decisions and to take on important tasks, giving others room to grow, accepting help)?"
+  },
+  "dominant": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being assertive and forceful?",
+    "high_label": "Highly competitive and aggressive; can be authoritative; want to win",
+    "label": "Dominant",
+    "low_label": "Look for win/win solutions; prefer not to be forceful or competitive; may be more accommodating",
+    "report_text": "Pushing vigorously to achieve results through an approach which is forceful, assertive and competitive.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being assertive and forceful (frequently winning arguments, challenging others, being competitive)?"
+  },
+  "empathy": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with showing care and concern for others?",
+    "high_label": "Sincerely care about people; work to develop close bonds with others; project warmth and acceptance",
+    "label": "Empathy",
+    "low_label": "Maintain a certain distance from others; can be somewhat aloof ",
+    "report_text": "Demonstrating an active concern for people and their needs by forming close and supportive relationships with others.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with showing care and concern for others (being generous, showing genuine interest in others, demonstrating kindness)?"
+  },
+  "excitement": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being expressive and enthusiastic?",
+    "high_label": "Are lively and dynamic; create enthusiasm; display emotions easily",
+    "label": "Excitement",
+    "low_label": "Display less emotional energy; more understated and subdued",
+    "report_text": "Operating with a good deal of energy, intensity and emotional expression; having a capacity for keeping others enthusiastic and involved.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being expressive and enthusiastic (creating excitement, having a high level of energy, getting others enthused)?"
+  },
+  "feedback": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with providing straightforward feedback?",
+    "high_label": "Let people know how they are doing; give feedback that is frank and direct",
+    "label": "Feedback",
+    "low_label": "Provide little feedback to others; do not let others know what you really think; less direct",
+    "report_text": "Letting others know in a straightforward manner what you think of them, how well they have performed and if they have met your needs and expectations.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with providing straightforward feedback (critiquing others’ performance when needed, letting others know if they met expectations, informing others when they have met  his/her needs)?"
+  },
+  "group": {
+    "achieving_results": {
+      "label": "Achieving Results"
+    },
+    "creating_vision": {
+      "label": "Creating a Vision"
+    },
+    "followership": {
+      "label": "Developing a Followership"
+    },
+    "following_through": {
+      "label": "Following Through"
+    },
+    "implementing_vision": {
+      "label": "Implementing the Vision"
+    },
+    "team_playing": {
+      "label": "Team Playing"
+    }
+  },
+  "innovative": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being innovative?",
+    "high_label": "Welcome new ideas and perspectives; comfortable with change; willing to take risks; experimental attitude",
+    "label": "Innovative",
+    "low_label": "Less attracted to exploring new ideas or approaches; leave well enough alone; avoid unnecessary risk-taking",
+    "report_text": "Feeling comfortable in fast-changing environments; being willing to take risks and to consider new and untested approaches.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being innovative (offering new ideas, challenging the status quo, exploring new horizons)?"
+  },
+  "management_focus": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with taking the lead?",
+    "high_label": "Willing to take command; enjoy managing people, being influential, accomplishing results through others",
+    "label": "Management Focus",
+    "low_label": "Less emphasis on taking charge and directing others; may prefer being an individual contributor",
+    "report_text": "Seeking to exert influence by being in positions of authority, taking charge, and leading and directing the efforts of others.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with taking the lead (taking command, providing guidance, making things happen)?"
+  },
+  "outgoing": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being outgoing?",
+    "high_label": "Very friendly; meet people easily; adopt an informal and easy manner",
+    "label": "Outgoing",
+    "low_label": "Are more difficult to get to know; more inner-directed; interpersonal style more role-dependent",
+    "report_text": "Acting in an extroverted, friendly and informal manner; showing a capacity to quickly establish free and easy interpersonal relationships.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being outgoing (socializing with others, being friendly, using humor)?"
+  },
+  "persuasive": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being persuasive?",
+    "high_label": "Use language effectively to convince others; work to sell ideas and win people over",
+    "label": "Persuasive",
+    "low_label": "May not see a need to sell your ideas; may use language to describe rather than convince",
+    "report_text": "Building commitment by convincing others and winning them over to your point of view.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being persuasive (winning people over, being convincing, getting others to align with his/her views)?"
+  },
+  "production": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with setting and delivering ambitious goals?",
+    "high_label": "Expect a great deal from yourself and others; set high goals and work hard to achieve them",
+    "label": "Production",
+    "low_label": "Give wide latitude for individual standard setting; less apt to demand high performance from others",
+    "report_text": "Adopting a strong orientation toward achievement; holding high expectations for yourself and others; pushing yourself and others to achieve at high levels.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with setting and delivering ambitious goals (setting stretch goals, focusing on results, testing his/her limits)?"
+  },
+  "restraint": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being reserved and restrained?",
+    "high_label": "Work to keep your feelings under control; try to stay calm and reserved",
+    "label": "Restraint",
+    "low_label": "Do not restrain emotions; act spontaneously",
+    "report_text": "Maintaining a low-key, understated and quiet interpersonal demeanor by working to control your emotional expression.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being reserved and restrained (remaining calm, controlling his/her emotional expressions, having a business-like demeanor)?"
+  },
+  "self": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with thinking and acting autonomously?",
+    "high_label": "See yourself as source of decisions; highly independent thinker; want to do things on your own",
+    "label": "Self",
+    "low_label": "Influenced by others; less likely to make decisions entirely on your own; may be team-minded",
+    "report_text": "Emphasizing the importance of making decisions independently; looking to yourself as the prime vehicle for decision making.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with thinking and acting autonomously (self-directed making decisions, relying on personal judgment, functioning independently)?"
+  },
+  "strategic": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being strategic?",
+    "high_label": "Take an analytical approach; plan ahead; think through the implications of decisions; project into the future",
+    "label": "Strategic",
+    "low_label": "Focus on the present; trust your instincts rather than analyze decisions; may take a highly focused or short-term view",
+    "report_text": "Taking a long-range, broad approach to problem solving and decision making through objective analysis, thinking ahead and planning.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being strategic (planning ahead, seeing the broad picture, thinking before acting)?"
+  },
+  "structuring": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with being structured and organized?",
+    "high_label": "Are organized, precise and methodical; set guidelines; work well with systems and procedures",
+    "label": "Structuring",
+    "low_label": "Are flexible; may be disorganized; do not prefer structured, systematic approaches",
+    "report_text": "Adopting a systematic and organized approach; preferring to work in a precise, methodical manner; developing and utilizing guidelines and procedures.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being structured and organized (establishing systematic processes, being methodical, paying attention to detail)?"
+  },
+  "tactical": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with tactical and hands on?",
+    "high_label": "A hands-on doer; act quickly; like to be in the center of the action; pragmatic business interests; utilitarian",
+    "label": "Tactical",
+    "low_label": "Stay more removed from day-to-day activities; place less importance on reacting quickly to opportunities",
+    "report_text": "Emphasizing the production of immediate results by focusing on short-range, hands-on, practical strategies.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with being tactical and hands on (troubleshooting, using practical approaches, adapting quickly)?"
+  },
+  "technical": {
+    "additional_feedback_question": "Do you have additional feedback for :first_name about demonstrating behaviors associated with professional/technical expertise?",
+    "high_label": "Emphasize in-depth knowledge; stay up-to-date in your field; base decisions on specific technical expertise",
+    "label": "Technical",
+    "low_label": "Prefer the role of generalist; less concerned with acquiring and utilizing specific technical expertise",
+    "report_text": "Acquiring and maintaining in-depth knowledge in your field or area of focus; using your expertise and specialized knowledge to study issues in depth and draw conclusions.",
+    "rating_feedback_question": "In your recent observations, how often have you seen :first_name demonstrate behaviors associated with professional/technical expertise (applying specialized knowledge, expanding specialized skills, demonstrating expertise)?"
+  }
+}

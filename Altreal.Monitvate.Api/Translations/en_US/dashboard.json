@@ -1,0 +1,64 @@
+{
+  "action_plan": {
+    "picker": {
+      "label": "Action Plan"
+    }
+  },
+  "card": {
+    "overall": {
+      "action_steps": "Action Steps :complete out of :total",
+      "complete": "Complete",
+      "title": "Overall Progress"
+    },
+    "pulse_results": {
+      "less_emphasis": "Less Emphasis",
+      "message": {
+        "no_results": "Your first pulse survey is still open, you have not yet collected enough Observer responses to start generating results. A minimum of 3 observer responses are required to generate pulse results.",
+        "no_survey": "Create your first Pulse Survey to start tracking your results.",
+        "too_few_results": "You currently have fewer than 3 responses, you are unable to view the data at this time"
+      },
+      "more_emphasis": "More Emphasis",
+      "title": "Pulse Results",
+      "x_axis": "Cycle"
+    },
+    "pulse_survey": {
+      "complete": "Complete",
+      "due_date": "Due Date",
+      "incomplete": "Incomplete",
+      "open": "Open",
+      "sent": "Sent",
+      "title": "Pulse Surveys"
+    },
+    "timeline": {
+      "end": "End Date",
+      "remaining": "Days Remaining",
+      "start": "Start Date",
+      "title": "Timeline"
+    }
+  },
+  "cta": {
+    "empty_primary": "Create Your First Action Plan",
+    "empty_secondary": "Review My Profile",
+    "onboard_pdf": "Get Help"
+  },
+  "help_url": "/pdfs/Detailed_Help_Documentation.pdf",
+  "intro": {
+    "dashboard_title": "This is your dashboard from Airtable!"
+  },
+  "link": {
+    "create_survey": "Create a Survey",
+    "resend_surveys": "Resend Surveys",
+    "review_action_plan": "Review Action Plan",
+    "set_reminders": "Set Reminders",
+    "view_results": "View Results"
+  },
+  "message_empty": {
+    "lea": "LEA Resource Guide"
+  },
+  "page_title": "Dashboard",
+  "title": "Dashboard",
+  "title_empty": "Welcome to MRG Momentum",
+  "empty_message": "Before getting started make sure you’ve had a chance to review the Taking Action section of your :link.\n\nLet’s get you started.",
+  "lea": "LEA Resource Guide",
+  "pulse_empty_message": "Click Create New Pulse Survey to get started and send out your first Pulse Survey!"
+}
