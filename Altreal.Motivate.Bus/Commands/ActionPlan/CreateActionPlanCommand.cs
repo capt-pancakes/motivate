@@ -1,6 +1,6 @@
 ﻿namespace Altreal.Motivate.Bus.Commands.ActionPlan
 {
-    public class CreateActionPlanCommand : ActionPlanCommand<Shared.Models.ActionPlan>
+    public class CreateActionPlanCommand : ActionPlanCommand<bool>
     {
         public bool IsFocus { get; }
         public Shared.Models.ActionPlan ActionPlan { get; }

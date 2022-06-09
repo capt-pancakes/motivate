@@ -12,7 +12,7 @@ namespace Altreal.Motivate.Bus.Mediator
     public interface IMediatorHandler
     {
         //Task<Y> SendCommand<T, Y>(T command) where T : Command<Y>;
-        Task<Y> SendCommand<T, Y>(T command) where T : Command<Y>;
+        Task<bool> SendCommand<T>(T command) where T : Command<bool>;
         Task RaiseEvent<T>(T @event) where T : Event;
         Task<Y> SendQuery<T, Y>(T Query) where T : Query<Y>;
     }

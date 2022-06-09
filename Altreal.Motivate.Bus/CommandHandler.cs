@@ -11,7 +11,7 @@ using MediatR;
 namespace Altreal.Motivate.Bus
 {
     public class CommandHandler :
-        IRequestHandler<CreateActionPlanCommand, ActionPlan>,
+        IRequestHandler<CreateActionPlanCommand, bool>,
         IRequestHandler<AddEditActionPlanBehaviorsCommand, bool>,
         IRequestHandler<RemoveActionPlanBehaviorCommand, bool>,
         IRequestHandler<AddActionStepsCommand, bool>,
@@ -23,7 +23,7 @@ namespace Altreal.Motivate.Bus
         {
             _actionPlanService = actionPlanService;
         }
-        public Task<ActionPlan> Handle(CreateActionPlanCommand request, CancellationToken cancellationToken)
+        public Task<bool> Handle(CreateActionPlanCommand request, CancellationToken cancellationToken)
         {
             return _actionPlanService.CreateActionPlan(request.ActionPlan);
         }

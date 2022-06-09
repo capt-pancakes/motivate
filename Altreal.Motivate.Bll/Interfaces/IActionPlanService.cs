@@ -10,7 +10,7 @@ namespace Altreal.Motivate.Bll.Interfaces
 {
     public interface IActionPlanService
     {
-        public Task<ActionPlan> CreateActionPlan(ActionPlan actionPlan);
+        public Task<bool> CreateActionPlan(ActionPlan actionPlan);
         public Task DeleteActionPlan(Guid id);
         public Task UpdateActionPlan(ActionPlan actionPlan);
         public Task ValidateActionPlan(Guid id);

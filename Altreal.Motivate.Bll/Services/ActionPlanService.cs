@@ -20,11 +20,10 @@ namespace Altreal.Motivate.Bll.Services
         {
             _repo = repo;
         }
-        public async Task<ActionPlan> CreateActionPlan(ActionPlan actionPlan)
+        public async Task<bool> CreateActionPlan(ActionPlan actionPlan)
         {
             var resp = await _repo.Add(actionPlan);
-           await  _repo.SaveChangesAsync();
-            return resp;
+            return (await _repo.SaveChangesAsync()) > 0;
         }
 
         public Task DeleteActionPlan(Guid id)

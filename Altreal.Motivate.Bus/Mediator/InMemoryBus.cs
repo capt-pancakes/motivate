@@ -37,9 +37,9 @@ namespace Altreal.Motivate.Bus.Mediator
         //    return _mediator.Send<bool>(command);
         //}
 
-        public Task<Y> SendCommand<T, Y>(T command) where T : Command<Y>
+        public Task<bool> SendCommand<T>(T command) where T : Command<bool>
         {
-            return _mediator.Send<Y>(command);
+            return _mediator.Send<bool>(command);
         }
 
         public Task RaiseEvent<T>(T @event) where T : Event

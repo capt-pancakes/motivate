@@ -24,6 +24,7 @@ builder.Services.AddScoped<MotivateContext>();
 builder.Services.AddScoped<IRepository<Timezone>, TimezoneRepository>();
 builder.Services.AddScoped<IRepository<Translation>, TranslationRepository>();
 builder.Services.AddScoped<IRepository<ActionPlan>, ActionPlanRepository>();
+builder.Services.AddScoped<IRepository<ActionStep>, Repository<ActionStep, MotivateContext>>();
 
 builder.Services.AddMediatR(typeof(Query<ActionPlan>));
 

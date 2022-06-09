@@ -26,7 +26,7 @@ namespace Altreal.Motivate.Data.Repository
             //return Task.FromResult<Translation>(result.Entity);
         }
 
-        public override Task<Translation> GetById<T>(T id)
+        public override Task<ActionStep?> GetById<T>(T id)
         {
             throw new NotImplementedException();
         }

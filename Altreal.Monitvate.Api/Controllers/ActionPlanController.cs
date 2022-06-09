@@ -1,10 +1,8 @@
 ﻿using Altreal.Motivate.Bus.Commands.ActionPlan;
 using Altreal.Motivate.Bus.Mediator;
-using Altreal.Motivate.Bus.Queries;
 using Altreal.Motivate.Bus.Queries.ActionPlan;
 using Altreal.Motivate.Shared.Dtos;
 using Altreal.Motivate.Shared.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Altreal.Monitvate.Api.Controllers
@@ -29,7 +27,7 @@ namespace Altreal.Monitvate.Api.Controllers
         [HttpPost]
         public async Task<IActionResult> Create(ActionPlan actionPlan)
         {
-            var resp = await _bus.SendCommand<CreateActionPlanCommand, ActionPlan>(new CreateActionPlanCommand(actionPlan));
+            var resp = await _bus.SendCommand(new CreateActionPlanCommand(actionPlan));
             return Ok(resp);
         }
 
@@ -37,7 +35,7 @@ namespace Altreal.Monitvate.Api.Controllers
         [Route("{id:guid}/behaviors")]
         public async Task<IActionResult> AddBehaviors(Dictionary<Guid, Emphasis> behaviors, Guid id)
         {
-            var resp = await _bus.SendCommand<AddEditActionPlanBehaviorsCommand, bool>(new AddEditActionPlanBehaviorsCommand(id, behaviors));
+            var resp = await _bus.SendCommand(new AddEditActionPlanBehaviorsCommand(id, behaviors));
             return Ok();
         }
 
@@ -45,7 +43,7 @@ namespace Altreal.Monitvate.Api.Controllers
         [Route("{id:guid}/behaviors")]
         public async Task<IActionResult> RemoveBehaviors(List<Guid> behaviors, Guid id)
         {
-            var resp = await _bus.SendCommand<RemoveActionPlanBehaviorCommand, bool>(new RemoveActionPlanBehaviorCommand(id, behaviors));
+            var resp = await _bus.SendCommand(new RemoveActionPlanBehaviorCommand(id, behaviors));
             return Ok();
         }
 
@@ -53,15 +51,22 @@ namespace Altreal.Monitvate.Api.Controllers
         [Route("{id:guid}/steps")]
         public async Task<IActionResult> AddActionSteps(List<ActionStepDto> steps, Guid id)
         {
-            var resp = await _bus.SendCommand<AddActionStepsCommand, bool>(new AddActionStepsCommand(id, steps));
+            var resp = await _bus.SendCommand(new AddActionStepsCommand(id, steps));
             return Ok();
         }
+
+        //[HttpGet]
+        //[Route("{id:guid}/steps")]
+        //public async Task<IActionResult> GetActionSteps(Guid id)
+        //{
+        //    //var steps = await _bus.SendQuery<GetActionStepsQuery, List<ActionStep>()
+        //}
 
         [HttpDelete]
         [Route("{id:guid}/steps")]
         public async Task<IActionResult> RemoveActionSteps(List<Guid> steps, Guid id)
         {
-            var resp = await _bus.SendCommand<RemoveActionStepsCommand, bool>(new RemoveActionStepsCommand(id, steps));
+            var resp = await _bus.SendCommand<RemoveActionStepsCommand>(new RemoveActionStepsCommand(id, steps));
             return Ok();
         }
     }

@@ -8,6 +8,31 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Altreal.Motivate.Data.Repository
 {
+    public class ActionStepRepository : Repository<ActionStep, MotivateContext>
+    {
+        private readonly MotivateContext _context;
+
+        public ActionStepRepository(MotivateContext context) : base(context)
+        {
+            _context = context;
+        }
+
+        public override Task<ActionStep> Add(ActionStep obj)
+        {
+            throw new NotImplementedException();
+        }
+
+        public override Task<ActionStep> GetById<T>(T id)
+        {
+            var stepId = (Guid)(object)id!;
+            return _context.ActionSteps.FirstOrDefaultAsync(step => step.Id == stepId);
+        }
+
+        public override Task<ActionStep> Update(ActionStep entity)
+        {
+            throw new NotImplementedException();
+        }
+    }
     public class ActionPlanRepository : Repository<ActionPlan, MotivateContext>
     {
         private readonly MotivateContext _ctx;

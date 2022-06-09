@@ -28,7 +28,7 @@ namespace Altreal.Motivate.Data.Repository
         }
 
         public abstract Task<TEntity> Add(TEntity obj);
-        public abstract Task<TEntity> GetById<T>(T id);
+        public abstract Task<TEntity?> GetById<T>(T id);
 
         //public async Task<TEntity> GetById<T>(T id)
         //{
