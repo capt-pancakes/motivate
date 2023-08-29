@@ -7,11 +7,16 @@ using Altreal.Motivate.Data.Seeders;
 using Altreal.Motivate.Shared.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
 
 namespace Altreal.Motivate.Data
 {
     public class MotivateContext: DbContext
     {
+        public MotivateContext(DbContextOptions<MotivateContext> options) : base(options)
+        {
+            
+        }
         //private readonly IConfiguration _configuration;
 
         //public MotivateContext(IConfiguration _configuration)
@@ -22,7 +27,7 @@ namespace Altreal.Motivate.Data
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             //optionsBuilder.UseSqlServer(_configuration.GetConnectionString("DefaultConnection"));
-            optionsBuilder.UseSqlServer("Data Source=(localdb)\\mssqllocaldb;Initial Catalog=Motivate;Integrated Security=True");
+            //optionsBuilder.UseSqlServer("Data Source=(localdb)\\mssqllocaldb;Initial Catalog=Motivate;Integrated Security=True");
             //optionsBuilder.Options.se
         }
 

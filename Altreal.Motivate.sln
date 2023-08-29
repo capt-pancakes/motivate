@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altreal.Motivate.Bll", "Alt
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altreal.Motivate.Shared", "Altreal.Motivate.Shared\Altreal.Motivate.Shared.csproj", "{A7792DDC-0D94-463D-AC45-D4356C752DD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altreal.Motivate.Bus", "Altreal.Motivate.Bus\Altreal.Motivate.Bus.csproj", "{630F7BA2-9702-4B91-9378-BA6753C5C647}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Altreal.Motivate.Bus", "Altreal.Motivate.Bus\Altreal.Motivate.Bus.csproj", "{630F7BA2-9702-4B91-9378-BA6753C5C647}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Altreal.Motivate.UI", "Altreal.Motivate.UI\Altreal.Motivate.UI.csproj", "{3D781BDD-CD30-4000-8F59-EE2DDF2705E8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{630F7BA2-9702-4B91-9378-BA6753C5C647}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{630F7BA2-9702-4B91-9378-BA6753C5C647}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{630F7BA2-9702-4B91-9378-BA6753C5C647}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D781BDD-CD30-4000-8F59-EE2DDF2705E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D781BDD-CD30-4000-8F59-EE2DDF2705E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D781BDD-CD30-4000-8F59-EE2DDF2705E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D781BDD-CD30-4000-8F59-EE2DDF2705E8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

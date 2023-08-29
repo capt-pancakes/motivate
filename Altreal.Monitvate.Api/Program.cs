@@ -26,7 +26,7 @@ builder.Services.AddScoped<IRepository<Translation>, TranslationRepository>();
 builder.Services.AddScoped<IRepository<ActionPlan>, ActionPlanRepository>();
 builder.Services.AddScoped<IRepository<ActionStep>, Repository<ActionStep, MotivateContext>>();
 
-builder.Services.AddMediatR(typeof(Query<ActionPlan>));
+//builder.Services.AddMediatR(typeof(Query<ActionPlan>));
 
 builder.Services.AddScoped<IMediator, Mediator>();
 builder.Services.AddScoped<IMediatorHandler, InMemoryBus>();
